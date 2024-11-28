@@ -1,0 +1,3002 @@
+[
+    {
+        "link": "https://www.ycombinator.com/companies/atopile",
+        "description": "We make tools to design electronics circuit boards with code",
+        "similarity": 0.43172621726989746
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/camfer",
+        "description": "Building the world\u2019s first AI mechanical engineer.",
+        "similarity": 0.38813188672065735
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/laminar",
+        "description": "Open-source all-in-one platform for engineering AI products",
+        "similarity": 0.3871554732322693
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/elodin",
+        "description": "The future of aerospace software.",
+        "similarity": 0.3703007400035858
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/forerunner-ai",
+        "description": "Copilot for aerospace engineers making rockets, munitions, satellites",
+        "similarity": 0.3578210175037384
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/dime-2",
+        "description": "AI Data Engineer for Hardware Manufacturers",
+        "similarity": 0.3578071892261505
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/fume",
+        "description": "We are building the AI Software Developer",
+        "similarity": 0.3518979251384735
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/polymet",
+        "description": "AI Product Designer",
+        "similarity": 0.3482869267463684
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/bilanc",
+        "description": "The AI-powered Engineering Management Platform",
+        "similarity": 0.3398648202419281
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/saldor",
+        "description": "AI Software Engineers",
+        "similarity": 0.3321034908294678
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/hestus-inc",
+        "description": "An AI-powered CAD software",
+        "similarity": 0.3304789960384369
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/fabricate",
+        "description": "Instant Engineering Drawings",
+        "similarity": 0.32689499855041504
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/dawn",
+        "description": "Analytics for AI products.",
+        "similarity": 0.3063619136810303
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/simplifine",
+        "description": "AI-Powered Workspace for Research",
+        "similarity": 0.3048646152019501
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/openfoundry",
+        "description": "The fastest developer experience for building on open source AI.",
+        "similarity": 0.30370545387268066
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/deepsim-inc",
+        "description": "An AI physics simulator for AI chip design",
+        "similarity": 0.29995885491371155
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/permitportal",
+        "description": "AI Operating System for Pre-construction",
+        "similarity": 0.29922449588775635
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/vespper",
+        "description": "24/7 AI on-call engineer",
+        "similarity": 0.2975753843784332
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/arcane",
+        "description": "AI powered games",
+        "similarity": 0.2971699833869934
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/octolane-ai",
+        "description": "Building AI-first Salesforce",
+        "similarity": 0.2935957908630371
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/gait",
+        "description": "Building Dev Infra for AI Software Engineers",
+        "similarity": 0.29261279106140137
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/diode-computers-inc",
+        "description": "Automate circuit board design using AI",
+        "similarity": 0.2905244827270508
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ncompass-technologies",
+        "description": "Deploy hardware accelerated AI models with only one line of code",
+        "similarity": 0.2899916470050812
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/spur",
+        "description": "Spur is your AI QA Engineer. Test your websites with natural language.",
+        "similarity": 0.28994524478912354
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/weave-robotics",
+        "description": "Personal robots for the home--that ship in 2025",
+        "similarity": 0.2878856658935547
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/supercontrast",
+        "description": "AI Co-Pilot for Design",
+        "similarity": 0.2872515916824341
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/yarn-2",
+        "description": "Make sales and marketing videos with AI.",
+        "similarity": 0.2859683036804199
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/luthor",
+        "description": "AI-powered content, expertly refined by humans who know your brand.",
+        "similarity": 0.2848191261291504
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/educato-ai",
+        "description": "AI-Powered Worldwide exam-prep platform",
+        "similarity": 0.2840954065322876
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/cerulion",
+        "description": "Open source operating system for robots",
+        "similarity": 0.28302696347236633
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/lantern-2",
+        "description": "Postgres vector database extension to build AI applications",
+        "similarity": 0.2816998064517975
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/drymerge",
+        "description": "Automate work with plain English.",
+        "similarity": 0.27984821796417236
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ligo-biosciences",
+        "description": "AI designed enzymes for the chemical industry.",
+        "similarity": 0.279215008020401
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/innate",
+        "description": "Agentic, teachable general-purpose robots",
+        "similarity": 0.27594250440597534
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/weavel",
+        "description": "Automate prompt & LLM engineering, 50x times faster than a human",
+        "similarity": 0.27467188239097595
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/speck",
+        "description": "Paige, an AI Frontend Engineer",
+        "similarity": 0.27211564779281616
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/asterisk",
+        "description": "AI Hacker for Codebases",
+        "similarity": 0.27158868312835693
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/petra-security",
+        "description": "Cybersecurity",
+        "similarity": 0.2711939513683319
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/forge",
+        "description": "Procurement software for hardware companies",
+        "similarity": 0.2711350917816162
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/autopallet-robotics",
+        "description": "We make robots that move boxes in warehouses",
+        "similarity": 0.26986849308013916
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/konstructly",
+        "description": "The Modern Operating System for Construction",
+        "similarity": 0.268078088760376
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/studydojo",
+        "description": "AI tutors for students.",
+        "similarity": 0.26483654975891113
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/lighthouz-ai",
+        "description": "AI procurement specialists for manufacturers",
+        "similarity": 0.26472243666648865
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/neuralize",
+        "description": "The On-Device AI Deployment Platform",
+        "similarity": 0.2635459303855896
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/lune-ai",
+        "description": "Lune AI - Better LLMs for code and technical tasks",
+        "similarity": 0.2629935145378113
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/artisan",
+        "description": "AI Employees Called Artisans, Starting With An AI BDR",
+        "similarity": 0.25998157262802124
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/entangl",
+        "description": "Automating hardware design end-to-end without errors",
+        "similarity": 0.2593438923358917
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/vendra",
+        "description": "AI copilot for hardware teams working with vendors",
+        "similarity": 0.25881433486938477
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/random-labs",
+        "description": "Random labs is building fully open source software agents",
+        "similarity": 0.2588076591491699
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/toolify",
+        "description": "Build internal tools with AI",
+        "similarity": 0.25863271951675415
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/agentic-labs-2",
+        "description": "AI system design tools for dev teams",
+        "similarity": 0.2583997845649719
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/dropback",
+        "description": "The front office software suite for college sports",
+        "similarity": 0.2572958767414093
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/deepsilicon",
+        "description": "Software and hardware to run neural networks faster and cheaper",
+        "similarity": 0.2571712136268616
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/voker",
+        "description": "No-Code AI Builder",
+        "similarity": 0.2553521394729614
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/miru-ml",
+        "description": "Deployment infrastructure for robotics and IoT",
+        "similarity": 0.254328191280365
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/scrapybara",
+        "description": "Virtual Desktops for AI Agents",
+        "similarity": 0.2525009512901306
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/spark",
+        "description": "AI-powered workflows for large-scale clean energy",
+        "similarity": 0.2521914839744568
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/abundant",
+        "description": "On-demand human workforce for AI agents",
+        "similarity": 0.2515801787376404
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/mathdash",
+        "description": "Turning Math into a Sport",
+        "similarity": 0.2510293126106262
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ionworks",
+        "description": "Simulation software used by leading battery and automotive companies",
+        "similarity": 0.25089597702026367
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/upshift",
+        "description": "We help product companies build plugin systems and app stores.",
+        "similarity": 0.24958404898643494
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pocketpod",
+        "description": "AI generated podcasts tailored to your interests",
+        "similarity": 0.24936255812644958
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pivot-robotics",
+        "description": "AI for Robot Arms in Factories",
+        "similarity": 0.249195858836174
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/gumloop",
+        "description": "A no-code platform for automating workflows with AI",
+        "similarity": 0.2475338727235794
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/fractal-labs",
+        "description": "AI powered UGC platform for RPGs",
+        "similarity": 0.24517722427845
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/cracked",
+        "description": "AI Motion Graphics Copilot",
+        "similarity": 0.24393197894096375
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/storia-ai",
+        "description": "Open source AI copilot that knows your company's code and its context",
+        "similarity": 0.24343839287757874
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ego",
+        "description": "AI-native 3D simulation engine",
+        "similarity": 0.2433888018131256
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/exa-laboratories",
+        "description": "Energy efficient chips for AI",
+        "similarity": 0.24306316673755646
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/archilabs",
+        "description": "AI Copilot for Architects",
+        "similarity": 0.24169224500656128
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/preloop",
+        "description": "Translate your experimental scripts into production ML services",
+        "similarity": 0.2402566373348236
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/codeviz",
+        "description": "AI agent that builds codebase maps for developers",
+        "similarity": 0.24013686180114746
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/presti-ai",
+        "description": "Helping furniture companies create product visuals with AI",
+        "similarity": 0.23950019478797913
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/videogen",
+        "description": "AI that can create and edit professional videos",
+        "similarity": 0.23803457617759705
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/model-ml",
+        "description": "AI Workspace for Financial Services.",
+        "similarity": 0.23798291385173798
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/paradigm",
+        "description": "A reimagined workspace with AI at its core",
+        "similarity": 0.23746289312839508
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/standard-data",
+        "description": "Augmented Reality Training and Copilot for Manufacturing",
+        "similarity": 0.23611129820346832
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/draftaid",
+        "description": "Go from 3D models to CAD drawings using AI",
+        "similarity": 0.2357366383075714
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/reform",
+        "description": "The AI-powered workspace for freight forwarding",
+        "similarity": 0.23494043946266174
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/trellis",
+        "description": "AI-powered workflows for unstructured data",
+        "similarity": 0.23411735892295837
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/metofico",
+        "description": "No Code Data Analysis for Life Science Research",
+        "similarity": 0.23206165432929993
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/leeroo",
+        "description": "Turning workflows to production-ready, e2e trainable Compound Models.",
+        "similarity": 0.2294943481683731
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/leya",
+        "description": "The AI workspace for lawyers",
+        "similarity": 0.2294912338256836
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/actionbase",
+        "description": "Automate popular websites in a few lines of code",
+        "similarity": 0.22885297238826752
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/frontio-by-nextui",
+        "description": "Frontio simplifies frontend creation by automating design systems and\u2026",
+        "similarity": 0.22880753874778748
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/galini",
+        "description": "Compliance guardrails-as-a-service for AI applications",
+        "similarity": 0.22790271043777466
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/andoria",
+        "description": "AI web agent for personalized walkthroughs",
+        "similarity": 0.22768740355968475
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pearai",
+        "description": "The Open Source and Extendable AI Code Editor",
+        "similarity": 0.22768312692642212
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/prosights",
+        "description": "ProSights is an AI-native workflow automation / search platform for\u2026",
+        "similarity": 0.2270299345254898
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/networkocean",
+        "description": "We build and operate underwater data centers.",
+        "similarity": 0.22699683904647827
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/simplex",
+        "description": "Synthetic datasets for vision models",
+        "similarity": 0.2269018143415451
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/gecko-security",
+        "description": "AI Security Engineer to Find and Fix Vulnerabilities",
+        "similarity": 0.22647009789943695
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pulse-ai",
+        "description": "Procurement on autopilot",
+        "similarity": 0.22600364685058594
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/encore",
+        "description": "Search and discovery engine for secondhand products",
+        "similarity": 0.2231501340866089
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/minusx",
+        "description": "AI Data Scientist for Jupyter and Metabase",
+        "similarity": 0.221980020403862
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/sre-ai",
+        "description": "AI agents to automate DevOps workflows",
+        "similarity": 0.22160260379314423
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/basepilot",
+        "description": "AI coworkers to automate browser work, in minutes.",
+        "similarity": 0.2215871661901474
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/mathos",
+        "description": "Ultimate AI Math Problem Solver to Revolutionize Personalized Learning",
+        "similarity": 0.22128167748451233
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/kura",
+        "description": "The AI DevOps Copilot for Software Teams",
+        "similarity": 0.22120881080627441
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/decipher-ai",
+        "description": "AI agent that uncovers product issues and bugs in production",
+        "similarity": 0.2203296720981598
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/seals-ai",
+        "description": "AI Employees for Wholesalers & Distributors",
+        "similarity": 0.22026260197162628
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/bucket-robotics",
+        "description": "Defect detection for manufacturing built from CAD and synthetic data.",
+        "similarity": 0.21958380937576294
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/anthrogen",
+        "description": "We make molecules like fuels and plastics from the air.",
+        "similarity": 0.2186281979084015
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/astro-mechanica",
+        "description": "New jet engines for the new Jet Age.",
+        "similarity": 0.217682883143425
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/gander",
+        "description": "LLM's For Aviation, Starting with Customer Service",
+        "similarity": 0.21738526225090027
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/poka-labs",
+        "description": "The modern operating system for chemical manufacturing.",
+        "similarity": 0.21731099486351013
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/fresco",
+        "description": "Quick, mobile documentation for construction sites",
+        "similarity": 0.21711094677448273
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/magicode",
+        "description": "A Reliable AI Frontend Engineer",
+        "similarity": 0.2154862880706787
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/scritch",
+        "description": "AI operating system for veterinary care",
+        "similarity": 0.21499711275100708
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/parity",
+        "description": "The World's First AI SRE",
+        "similarity": 0.21456439793109894
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/lumina-2",
+        "description": "AI Search Engine for Research",
+        "similarity": 0.21415545046329498
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/patchwork",
+        "description": "Your team\u2019s AI powered communication tool",
+        "similarity": 0.21387284994125366
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/opencall-ai",
+        "description": "AI call centers for any business",
+        "similarity": 0.21370777487754822
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/partnerhq",
+        "description": "A marketplace for B2B businesses to buy warm intros.",
+        "similarity": 0.21353745460510254
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/reactwise",
+        "description": "AI Co-Pilot for Chemical Process Optimization",
+        "similarity": 0.213356614112854
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ultra",
+        "description": "Robots to package billions of e-commerce orders in warehouses",
+        "similarity": 0.21321633458137512
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/phonely",
+        "description": "AI call centers",
+        "similarity": 0.2131478488445282
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/syntra",
+        "description": "AI OS for Private Practice Doctors",
+        "similarity": 0.21229979395866394
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/lumona",
+        "description": "AI-enabled search engine featuring perspectives from social media.",
+        "similarity": 0.21199262142181396
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/aditto",
+        "description": "Let AI manage your marketing.",
+        "similarity": 0.21187376976013184
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/renderlet",
+        "description": "Build interactive applications that run anywhere",
+        "similarity": 0.2116488814353943
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/unsloth-ai",
+        "description": "Open Source Fine-tuning & Training of LLMs",
+        "similarity": 0.21148473024368286
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/terrakotta",
+        "description": "AI platform for phone-first sellers",
+        "similarity": 0.21142226457595825
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/freestyle",
+        "description": "Build exceptional infrastructure with just JavaScript.",
+        "similarity": 0.21049083769321442
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/autumn-labs",
+        "description": "Datadog for industrial robots",
+        "similarity": 0.20997294783592224
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/tokenowl",
+        "description": "AI portfolio tools for the next generation of finance",
+        "similarity": 0.20994922518730164
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/argil",
+        "description": "The video generation engine for the creator economy",
+        "similarity": 0.20967942476272583
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/praxis-ai",
+        "description": "Manufacturing specific reasoning agents to prevent machine failures",
+        "similarity": 0.20926596224308014
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/browser-buddy",
+        "description": "Librarian for the Internet",
+        "similarity": 0.2087881863117218
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pipeshift",
+        "description": "Platform for Fine-tuning, Distilling and Inferencing Open-source LLMs.",
+        "similarity": 0.20850107073783875
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/k-scale-labs",
+        "description": "Open-source humanoid robots",
+        "similarity": 0.20830728113651276
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/odo",
+        "description": "Help companies find and win government contracts with AI",
+        "similarity": 0.20794963836669922
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/buster",
+        "description": "The open source, AI alternative to Tableau",
+        "similarity": 0.2075643539428711
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/voicepanel",
+        "description": "Better surveys with AI",
+        "similarity": 0.20691260695457458
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/datacurve",
+        "description": "Frontier coding data for training and evaluating LLMs",
+        "similarity": 0.2057407647371292
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/propaya",
+        "description": "AI-powered software to automate property management.",
+        "similarity": 0.2052009105682373
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/keywords-ai",
+        "description": "LLM monitoring platform for AI startups",
+        "similarity": 0.20517775416374207
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/tile",
+        "description": "AI-first notebook for building operational data apps",
+        "similarity": 0.20509931445121765
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/distro",
+        "description": "The AI co-pilot for sales reps at industrial wholesale distributors.",
+        "similarity": 0.20484331250190735
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/dianahr",
+        "description": "An AI-Powered HR Person",
+        "similarity": 0.20340125262737274
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/asha-health",
+        "description": "We help medical practices launch their own AI clinic",
+        "similarity": 0.20310913026332855
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/tracecat",
+        "description": "Open source Tines / Splunk SOAR alternative for security engineers.",
+        "similarity": 0.20292824506759644
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/lucite",
+        "description": "Automating workflows for insurance, real estate, and finance.",
+        "similarity": 0.20250265300273895
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/patched",
+        "description": "Open-source workflow automation for dev teams",
+        "similarity": 0.20221947133541107
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/parasale",
+        "description": "AI Recruiter: Find and Engage Candidates on Autopilot",
+        "similarity": 0.20189449191093445
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/reprompt",
+        "description": "AI Data Agents for reading complex documents and websites",
+        "similarity": 0.19932593405246735
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/silogy",
+        "description": "An AI-powered test and debug platform for chip developers",
+        "similarity": 0.19927921891212463
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pandasai",
+        "description": "PandasAI is an open-source conversational data analysis platform with\u2026",
+        "similarity": 0.19840887188911438
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/toma",
+        "description": "AI for auto dealerships",
+        "similarity": 0.19837415218353271
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/garage-2",
+        "description": "Marketplace for used firefighting equipment.",
+        "similarity": 0.19753685593605042
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/magic-hour",
+        "description": "Platform for AI video generation.",
+        "similarity": 0.1974848508834839
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/conveo",
+        "description": "Qualitative Research Conducted and Analyzed by AI",
+        "similarity": 0.1974504590034485
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/drillbit",
+        "description": "Automating Office Work for Residential Contractors.",
+        "similarity": 0.19740454852581024
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/apten",
+        "description": "Customizable AI SMS agents for businesses",
+        "similarity": 0.19703513383865356
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/zeit-ai",
+        "description": "Enterprise insights from spreadsheet data with just a few words.",
+        "similarity": 0.19633719325065613
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/answergrid",
+        "description": "AI research agents for Strategy Consultants and Investment Analysts",
+        "similarity": 0.1952449083328247
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/adagy-robotics",
+        "description": "Rescuing robots",
+        "similarity": 0.19494077563285828
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/shepherd-2",
+        "description": "Every student's personalized learning assistant",
+        "similarity": 0.19389623403549194
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/meticulate",
+        "description": "The most powerful way to find, research, and track companies",
+        "similarity": 0.19363844394683838
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ctgt",
+        "description": "Entirely New AI Stack: Efficient and Safe Alternative to LLM Ecosystem",
+        "similarity": 0.19345952570438385
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/merse-2",
+        "description": "Visual stories like comics, but with immersive audio effects.",
+        "similarity": 0.19150902330875397
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/kairo-health",
+        "description": "The AI healthcare workforce",
+        "similarity": 0.19126245379447937
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/genie",
+        "description": "Conversational AI Sidekick for Kids.",
+        "similarity": 0.1911860704421997
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/variant",
+        "description": "Building the state-of-the-art model for software design",
+        "similarity": 0.18982961773872375
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pathpilot",
+        "description": "The AI Customer Experience Agent",
+        "similarity": 0.18960919976234436
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/soff",
+        "description": "Supply Chain OS for manufacturing companies.",
+        "similarity": 0.18942221999168396
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/retailready",
+        "description": "An AI-powered supply chain compliance engine",
+        "similarity": 0.18940997123718262
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/apriora",
+        "description": "Your AI recruiter for interviewing and identifying the best talent",
+        "similarity": 0.18915975093841553
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/dexter",
+        "description": "AI workflow automation for field operations",
+        "similarity": 0.18895766139030457
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/sorcerer",
+        "description": "We build weather balloons that collect 1000x more data",
+        "similarity": 0.18895456194877625
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/fix-ai",
+        "description": "AI agents that navigate websites like real users to find bugs",
+        "similarity": 0.1877756416797638
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/wordware",
+        "description": "IDE to develop, iterate and deploy AI Agents",
+        "similarity": 0.18759270012378693
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/felafax",
+        "description": "Building AI Infra for non-NVIDIA GPUs",
+        "similarity": 0.18750318884849548
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/redouble-ai",
+        "description": "Scale human-in-the-loop for AI workflows in regulated industries",
+        "similarity": 0.18743827939033508
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/focal-2",
+        "description": "AI-powered compliance operations for banks and fintechs",
+        "similarity": 0.18703794479370117
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/sensei",
+        "description": "Robotic Training Data at Scale",
+        "similarity": 0.18605589866638184
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/roundabout-technologies",
+        "description": "AI-powered traffic lights",
+        "similarity": 0.1854974925518036
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/vly-ai-2",
+        "description": "The easiest way to build custom full-stack software without code",
+        "similarity": 0.1845417320728302
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/sepal-ai",
+        "description": "Building LLMs for Large Enterprises.",
+        "similarity": 0.18365710973739624
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/proxis",
+        "description": "The developer platform for LLM distillation and serving.",
+        "similarity": 0.1820465624332428
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/malibou",
+        "description": "the first all-in-one payroll and HR software for French SMBs",
+        "similarity": 0.18195581436157227
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/stormy-ai",
+        "description": "Influencer marketing on autopilot",
+        "similarity": 0.18166062235832214
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/circleback",
+        "description": "AI-powered meeting notes and automations",
+        "similarity": 0.1815742552280426
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/lumenary",
+        "description": "AI-powered research for financial service professionals.",
+        "similarity": 0.18156757950782776
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/cocrafter",
+        "description": "B2B construction marketplace to match contractors and subcontractors.",
+        "similarity": 0.1812840849161148
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/sample",
+        "description": "AI Agents for healthcare enterprises.",
+        "similarity": 0.1810595840215683
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/assembly-hoa",
+        "description": "AI-enabled HOA Management Company",
+        "similarity": 0.18095479905605316
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/onegrep",
+        "description": "AI Agent for DevOps Workflow Automation",
+        "similarity": 0.18086794018745422
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ideate-xyz",
+        "description": "Automate marketing graphics design at scale",
+        "similarity": 0.18073724210262299
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/comfy-deploy",
+        "description": "Vercel for Gen AI applications",
+        "similarity": 0.18061219155788422
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/conductor-quantum",
+        "description": "Quantum computers on silicon chips using AI.",
+        "similarity": 0.1798473298549652
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/sphinx",
+        "description": "AI Agents for KYC & AML",
+        "similarity": 0.1796209067106247
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/zep-ai",
+        "description": "The Memory Foundation For Your AI Stack",
+        "similarity": 0.1795583963394165
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/synth-3",
+        "description": "We help AI agents learn from data.",
+        "similarity": 0.17901507019996643
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pinnacle",
+        "description": "API & SDK for RCS (the next-generation of texting)",
+        "similarity": 0.17825981974601746
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/saphira-ai",
+        "description": "Vanta for Hardware",
+        "similarity": 0.17825806140899658
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/unbound-security",
+        "description": "Allow employees to use AI tools without fear of data loss",
+        "similarity": 0.1781826615333557
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/foundry",
+        "description": "Build, test, and improve AI agents",
+        "similarity": 0.1780339479446411
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/coblocks",
+        "description": "Build data pipelines in minutes with AI",
+        "similarity": 0.17802686989307404
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/manaflow",
+        "description": "Automate repetitive internal tool workflows with AI agents",
+        "similarity": 0.17757955193519592
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/quetzal",
+        "description": "Simple, LLM-first translation and internationalization for software",
+        "similarity": 0.17757457494735718
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/blast",
+        "description": "Helping enterprises build safe and compliant LLM apps/agents",
+        "similarity": 0.17710363864898682
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/roe-ai",
+        "description": "Data warehouse to query unstructured data like docs, webs, imgs & more",
+        "similarity": 0.1760205626487732
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/mem0",
+        "description": "The Memory layer for your AI apps",
+        "similarity": 0.1759839951992035
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/synnax",
+        "description": "Unified Hardware Control and Data Processing Software",
+        "similarity": 0.17562821507453918
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/substrate",
+        "description": "Artificial Intelligence for your medical billing team",
+        "similarity": 0.17552533745765686
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/greptile",
+        "description": "AI expert on your codebase that you can query via an API",
+        "similarity": 0.1754601001739502
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/eggnog",
+        "description": "Youtube for AI-generated content",
+        "similarity": 0.17425717413425446
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/merlin-ai",
+        "description": "AI powered ERP for Construction",
+        "similarity": 0.17419785261154175
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/elevate-2",
+        "description": "Financial infrastructure for AI agents",
+        "similarity": 0.17411497235298157
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/usul",
+        "description": "Win Defense Contracts with AI.",
+        "similarity": 0.1740437150001526
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/camelai",
+        "description": "AI Business Intelligence agent. Get actionable insights in minutes.",
+        "similarity": 0.1734379231929779
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/centauri-ai",
+        "description": "The Modern ETL and Data Science Platform for Finance",
+        "similarity": 0.17330804467201233
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/heartbyte",
+        "description": "GenAI Webtoon. Creator write fictions 10x faster.",
+        "similarity": 0.17281939089298248
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/danswer",
+        "description": "Open Source AI Assistant and Enterprise Search",
+        "similarity": 0.17215189337730408
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ssoready",
+        "description": "Open source developer tools for enterprise single sign-on",
+        "similarity": 0.1714516431093216
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/docflow",
+        "description": "We build automated scheduling software for hospitals",
+        "similarity": 0.17122521996498108
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/quivr",
+        "description": "Open Source Chat-Powered Second Brain",
+        "similarity": 0.17119759321212769
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/taxo",
+        "description": "Automated medical billing and coding",
+        "similarity": 0.1703578680753708
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/azalea-robotics-corporation",
+        "description": "Automating airport baggage handling with robots.",
+        "similarity": 0.1698950082063675
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ragas",
+        "description": "Building the open source standard for evaluating LLM Applications",
+        "similarity": 0.16964620351791382
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/navier-ai",
+        "description": "Real-Time CFD Simulations",
+        "similarity": 0.1691284477710724
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/superunit",
+        "description": "AI powered ERP for companies manufacturing or selling physical goods",
+        "similarity": 0.1687619984149933
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/karmen",
+        "description": "AI Assistant for Construction Project Managers",
+        "similarity": 0.16869832575321198
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/brainbase",
+        "description": "AI workflow automations for enterprise",
+        "similarity": 0.16842979192733765
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/xtraffic",
+        "description": "Technology for cities to automate and manage their traffic lights.",
+        "similarity": 0.16790084540843964
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/stempad",
+        "description": "Notion for science",
+        "similarity": 0.16787570714950562
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/focus-buddy",
+        "description": "AI Productivity Coach you speak with while working to stay focused\u2026",
+        "similarity": 0.16786512732505798
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/taxgpt",
+        "description": "AI Co-Pilot for Accountants",
+        "similarity": 0.16735948622226715
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/mica-ai",
+        "description": "AI Agents that Automate B2B Sales",
+        "similarity": 0.16719254851341248
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/silurian",
+        "description": "Foundation models to simulate Earth, starting with weather.",
+        "similarity": 0.1668771356344223
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/commodityai",
+        "description": "AI-Powered Shipment Management for Commodity Traders",
+        "similarity": 0.1666925698518753
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/titan-2",
+        "description": "Open-source toolkit for data compliance",
+        "similarity": 0.16638143360614777
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ocular-ai",
+        "description": "Ocular AI 2.0 Launch Week: Dec 01 - 07, 2024",
+        "similarity": 0.16603609919548035
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/inspectmind-ai",
+        "description": "Write Construction Inspections Reports using AI, up to 100x faster",
+        "similarity": 0.16588172316551208
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/codebuff",
+        "description": "The CLI tool that writes code for you",
+        "similarity": 0.1656723916530609
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/getcrux",
+        "description": "AI Co-pilot for Performance Marketing",
+        "similarity": 0.1653527170419693
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/healthspark",
+        "description": "Launch, run, and grow an AI-native physical therapy practice",
+        "similarity": 0.1652749627828598
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ecliptor",
+        "description": "AI and Embeddings.",
+        "similarity": 0.16521376371383667
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/kopra-bio",
+        "description": "Genetically engineered viruses that teach your immune system to kill\u2026",
+        "similarity": 0.16520346701145172
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/aminoanalytica",
+        "description": "AI for improved protein production and performance",
+        "similarity": 0.16464419662952423
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/circlemind",
+        "description": "Circlemind is an open-source RAG using knowledge graphs and PageRank.",
+        "similarity": 0.1645333170890808
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/capitol-ai",
+        "description": "Capitol is a custom perplexity for every website in the world.",
+        "similarity": 0.16419073939323425
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/carousel-technologies",
+        "description": "Professional AI toolkit for PowerPoint",
+        "similarity": 0.1638897955417633
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/zenbase-ai",
+        "description": "Continuous prompt optimization for LLMs from DSPy core contributors",
+        "similarity": 0.1631242036819458
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/aftercare",
+        "description": "Conversational AI surveys with intelligent follow-up questions",
+        "similarity": 0.16309529542922974
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/dimely",
+        "description": "AI agents for B2B SaaS Finance Teams",
+        "similarity": 0.16304755210876465
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/1849-bio",
+        "description": "Engineering microbes for miners to unlock billions in trapped metal",
+        "similarity": 0.1629718542098999
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pythagora-gpt-pilot",
+        "description": "OSS dev tool that builds entire apps from scratch by talking to you",
+        "similarity": 0.16271981596946716
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/unriddle",
+        "description": "Read, write and find research papers faster.",
+        "similarity": 0.16226275265216827
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/codeant-ai",
+        "description": "AI Code Reviewer",
+        "similarity": 0.16224288940429688
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/soundry-ai",
+        "description": "Professional Quality AI Music Creation",
+        "similarity": 0.16207261383533478
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/precip",
+        "description": "High precision AI weather models",
+        "similarity": 0.16158553957939148
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/tusk",
+        "description": "Generate unit and integration tests with AI",
+        "similarity": 0.1615464985370636
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/palmier",
+        "description": "AI Native Github Alternative",
+        "similarity": 0.1613224744796753
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ember-robotics",
+        "description": "Datadog for robots",
+        "similarity": 0.1610754430294037
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/melty",
+        "description": "Melty is the first chat-based code editor",
+        "similarity": 0.16104531288146973
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/reticular",
+        "description": "Steerable and interpretable AI for protein design",
+        "similarity": 0.16097497940063477
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/clarum",
+        "description": "AI-powered investment due diligence",
+        "similarity": 0.16093581914901733
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ontra-mobility",
+        "description": "Platform for cities to optimize transit",
+        "similarity": 0.16093246638774872
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/metreecs",
+        "description": "AI-powered demand forecasting for retail",
+        "similarity": 0.1609155386686325
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/revi",
+        "description": "AI-enabled M&A deal origination",
+        "similarity": 0.1608791947364807
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/omnidock",
+        "description": "OS for global e-commerce expansion of brands & manufacturers",
+        "similarity": 0.16081483662128448
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/quantic",
+        "description": "Next generation data for Sales teams.",
+        "similarity": 0.16056793928146362
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/argon-ai-inc",
+        "description": "AI for Pharma Intelligence",
+        "similarity": 0.16051696240901947
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/tiny",
+        "description": "The Rippling for factories",
+        "similarity": 0.15997059643268585
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pap",
+        "description": "Agents that earn consumers dollars when they shop, travel, and live.",
+        "similarity": 0.15983103215694427
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/openclinic",
+        "description": "Digital medical clinics that are 99% AI, 1% doctor.",
+        "similarity": 0.15909236669540405
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pretzel-ai",
+        "description": "Open-source & AI-native replacement for Jupyter Notebooks",
+        "similarity": 0.15887200832366943
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/artos",
+        "description": "Turning science into regulatory submissions in minutes, not months.",
+        "similarity": 0.15884815156459808
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/vectorview",
+        "description": "Building custom evaluation tasks for AI",
+        "similarity": 0.15831974148750305
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/rescript",
+        "description": "AI Regulatory Analyst for Enterprises",
+        "similarity": 0.15810078382492065
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/callback",
+        "description": "AI-native business process outsourcing",
+        "similarity": 0.1578398495912552
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/rove",
+        "description": "Travel the world for free.",
+        "similarity": 0.1576397716999054
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/maihem",
+        "description": "Industry-leading quality testing for mission critical AI",
+        "similarity": 0.15724404156208038
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/rastro",
+        "description": "AI personal shopper for home goods",
+        "similarity": 0.15721122920513153
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/deepnight",
+        "description": "Building The Next Generation of Night Vision Devices",
+        "similarity": 0.15697801113128662
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/et-al",
+        "description": "Feed of insights extracted from your go-to sources using LLMs.",
+        "similarity": 0.15685397386550903
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/arva-ai",
+        "description": "AI enabled business verification for banks and fintechs",
+        "similarity": 0.15669035911560059
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ai-sell",
+        "description": "AI Sales Associate for Ecommerce",
+        "similarity": 0.15647894144058228
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/guardian-rf",
+        "description": "Drone detection and signal intelligence for US defense.",
+        "similarity": 0.15632258355617523
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/carma",
+        "description": "Same-Day Auto Repair for Commercial Fleets.",
+        "similarity": 0.15612971782684326
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/orgorg",
+        "description": "Organizational productivity suite for companies",
+        "similarity": 0.1560366153717041
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/beerme",
+        "description": "A fun, global alternative to Venmo built on USDC",
+        "similarity": 0.1552697718143463
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/thunder-compute",
+        "description": "Virtualization software to make GPUs 5x cheaper",
+        "similarity": 0.15497760474681854
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/driver-ai",
+        "description": "Understand millions of lines of code in minutes.",
+        "similarity": 0.1549241840839386
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/modern-realty",
+        "description": "AI Tools for Transactional Support",
+        "similarity": 0.15491127967834473
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/foreffect",
+        "description": "AI Video Effects",
+        "similarity": 0.15451006591320038
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/mindely",
+        "description": "The first GenAI interviewer for skills assessment interviews",
+        "similarity": 0.15337596833705902
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/david-ai",
+        "description": "Data for audio AI",
+        "similarity": 0.15327411890029907
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/spherecast",
+        "description": "AI Supply Chain Manager for Ecommerce",
+        "similarity": 0.15297560393810272
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/aedilic",
+        "description": "Aedilic is building gpudeploy.com",
+        "similarity": 0.15262767672538757
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/blume-benefits",
+        "description": "The AI copilot for health insurance brokers.",
+        "similarity": 0.15164002776145935
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/hazel-2",
+        "description": "AI-enabled procurement software for government",
+        "similarity": 0.150673046708107
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/newton",
+        "description": "AI-Powered Phones and Payments for Retail Healthcare",
+        "similarity": 0.15041759610176086
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/coval",
+        "description": "Simulation & Evaluation for AI Agents",
+        "similarity": 0.14932098984718323
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/furtherai",
+        "description": "AI Workforce for the Insurance Industry",
+        "similarity": 0.14922043681144714
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/upsolve-ai",
+        "description": "Customer-facing analytics as a service, powered by AI.",
+        "similarity": 0.14919398725032806
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/central",
+        "description": "Eliminating business bullshit: payroll, benefits, compliance, etc",
+        "similarity": 0.14866502583026886
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/praxos",
+        "description": "AI workbench for insurance brokers",
+        "similarity": 0.1481057107448578
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/overstand-labs",
+        "description": "The cross-selling engine for enterprise software companies",
+        "similarity": 0.1468881070613861
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ellipsis",
+        "description": "AI code reviews & bug fixes",
+        "similarity": 0.14652779698371887
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/expand-ai",
+        "description": "Turn any website into an API.",
+        "similarity": 0.14606927335262299
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/relari",
+        "description": "Testing and Simulation Stack for GenAI Systems",
+        "similarity": 0.14596302807331085
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/arini",
+        "description": "AI receptionist for dentists",
+        "similarity": 0.14546139538288116
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/helium",
+        "description": "Self Improving Software",
+        "similarity": 0.1454058736562729
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/purplepages",
+        "description": "Purple is an AI agent for online local marketplace transactions.",
+        "similarity": 0.14404326677322388
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/decisional-ai",
+        "description": "AI Financial Analyst for Private Market Investors",
+        "similarity": 0.1429738998413086
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/tower",
+        "description": "Copilot for in-house legal teams.",
+        "similarity": 0.14244699478149414
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/anglera",
+        "description": "AI-native operating system for e-commerce",
+        "similarity": 0.14230144023895264
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/afternoon-co",
+        "description": "AI Bookkeeping and tax platform for ecommerce & startup founders",
+        "similarity": 0.1415957510471344
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/senso",
+        "description": "AI-Powered Knowledge Base for Customer Support",
+        "similarity": 0.14133821427822113
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/triply",
+        "description": "Operating system for travel businesses in Africa with embedded finance",
+        "similarity": 0.1408432126045227
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/yondu",
+        "description": "Grocery Store Automation with Intelligent Robotics",
+        "similarity": 0.14053834974765778
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/remade",
+        "description": "Using AI to hyper-personalize videos for marketplaces",
+        "similarity": 0.14043842256069183
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/relvy-ai",
+        "description": "Efficient AI for monitoring production software",
+        "similarity": 0.13938072323799133
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ares-industries",
+        "description": "Building low-cost cruise missiles",
+        "similarity": 0.13856402039527893
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/parahelp",
+        "description": "The AI support agent used by Perplexity and Captions.ai",
+        "similarity": 0.1382180154323578
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/olive-legal",
+        "description": "AI medical summaries for injury lawyers",
+        "similarity": 0.1381414532661438
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/attunement",
+        "description": "Automation workflow for psychiatric assessments.",
+        "similarity": 0.13766330480575562
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/sonauto",
+        "description": "Create hit songs with AI",
+        "similarity": 0.13712625205516815
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/firebender",
+        "description": "Android Studio Coding Assistant",
+        "similarity": 0.1366686373949051
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/platus",
+        "description": "Instant Legal Infrastructure - Draft, Sign, Notarize & Automate",
+        "similarity": 0.13638252019882202
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/digitalcarbon",
+        "description": "Transform Images And Videos Into Immersive 3D With AI",
+        "similarity": 0.13541582226753235
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/biocartesian",
+        "description": "Converting biology into digital molecular maps",
+        "similarity": 0.13526803255081177
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/inquery-2",
+        "description": "AI-Native Operating System for the Insurance Industry",
+        "similarity": 0.13512203097343445
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/humanlayer",
+        "description": "Human-in-the-Loop for AI Agents",
+        "similarity": 0.13466882705688477
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/symphony",
+        "description": "Voice AI sims for next-gen employee training",
+        "similarity": 0.13448172807693481
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/formula-insight",
+        "description": "Help Institutional Investors manage, track & query their Excel models",
+        "similarity": 0.13447824120521545
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/aether-energy",
+        "description": "Solar and roofing workflow software for solar installers worldwide",
+        "similarity": 0.13441774249076843
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/passage",
+        "description": "Clear goods through customs, with AI",
+        "similarity": 0.1336854100227356
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pearson-labs",
+        "description": "AI agents used by law firms and companies for corporate transactions",
+        "similarity": 0.1336563676595688
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/happenstance",
+        "description": "People search powered by AI",
+        "similarity": 0.1332169622182846
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/remo",
+        "description": "AI for compliance teams at banks",
+        "similarity": 0.13273191452026367
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/basalt-tech",
+        "description": "Autonomy in space, for every mission",
+        "similarity": 0.1319160759449005
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/tamarind-bio",
+        "description": "Easy to use computational biology tools for drug discovery",
+        "similarity": 0.1312624216079712
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/midship",
+        "description": "Extract, search and analyze data in your documents",
+        "similarity": 0.13100509345531464
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/markprompt",
+        "description": "AI for customer support",
+        "similarity": 0.13082584738731384
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/lumen-orbit",
+        "description": "Data centers in space",
+        "similarity": 0.1307031810283661
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/zeropath",
+        "description": "Automatically find and fix your software vulnerabilities",
+        "similarity": 0.13066813349723816
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/goldenbasis",
+        "description": "Modern back-office software for brokerages",
+        "similarity": 0.13039250671863556
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ficra",
+        "description": "Real time, source of truth for every product screen and user flow",
+        "similarity": 0.13033844530582428
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/haplotype-labs",
+        "description": "Personalized prevention using genetics and AI",
+        "similarity": 0.13029034435749054
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/million",
+        "description": "Make websites fast, automatically",
+        "similarity": 0.12855491042137146
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/dataleap",
+        "description": "Perplexity for Consultants",
+        "similarity": 0.1280607283115387
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/quary",
+        "description": "The first in-browser analytics engineering platform",
+        "similarity": 0.12795372307300568
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/topo",
+        "description": "AI sales agent custom trained for each company to reach the best leads",
+        "similarity": 0.12792666256427765
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/thyme",
+        "description": "The OS for financial advisors",
+        "similarity": 0.12732145190238953
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/summed-ai",
+        "description": "The AI Copilot for Insurance Agents",
+        "similarity": 0.12664863467216492
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/marblism",
+        "description": "Generate a fully-functional web app from a single prompt",
+        "similarity": 0.12629972398281097
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/kart-ai",
+        "description": "The AI shopping assistant for all e-commerce brands",
+        "similarity": 0.12627585232257843
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/riveter-ai",
+        "description": "The copilot for corporate strategy",
+        "similarity": 0.12594705820083618
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/alex",
+        "description": "The Cursor for Xcode",
+        "similarity": 0.1251358836889267
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/trueclaim",
+        "description": "Transparent, AI-powered healthcare TPA.",
+        "similarity": 0.1245669350028038
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/undermind",
+        "description": "An AI agent for complex search",
+        "similarity": 0.12285135686397552
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/clearly-ai",
+        "description": "Automate security and privacy reviews",
+        "similarity": 0.122449591755867
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/plume",
+        "description": "Home energy renovation copilot",
+        "similarity": 0.122306227684021
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/yoneda-labs",
+        "description": "Foundation Model for Chemical Manufacturing",
+        "similarity": 0.12221890687942505
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/affil-ai",
+        "description": "AI Affiliate Network For Financial Companies",
+        "similarity": 0.12162487208843231
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/cartage",
+        "description": "Autonomous freight coordination",
+        "similarity": 0.12150374799966812
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/dodo",
+        "description": "AI Employees for Specialty Clinics",
+        "similarity": 0.12121466547250748
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/winford-ai",
+        "description": "Automating Financial Workflows",
+        "similarity": 0.12089115381240845
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/glimmer",
+        "description": "AI search for massive PDFs",
+        "similarity": 0.12078757584095001
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ceejay",
+        "description": "Intelligent assistant for knowledge workers",
+        "similarity": 0.12072063237428665
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/kura-ai",
+        "description": "New State of the Art for Browser Agents",
+        "similarity": 0.12053143233060837
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/rewbi",
+        "description": "Rewbi uses AI to increase grid-connected battery storage revenue 2x",
+        "similarity": 0.12045522779226303
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/diffusion-studio",
+        "description": "Next Generation Canva for AI Video Editing in the Browser",
+        "similarity": 0.1202012449502945
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/fluently",
+        "description": "AI-powered speaking coach for calls",
+        "similarity": 0.11936111748218536
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/replexica",
+        "description": "Automated AI localization for multilingual software.",
+        "similarity": 0.11934558302164078
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/openmart",
+        "description": "GTM platform for reaching local businesses",
+        "similarity": 0.1191943883895874
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ledgerup",
+        "description": "Your first and only finance hire",
+        "similarity": 0.11911746114492416
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/prohostai",
+        "description": "AI Property Manager for Airbnb & Short-Term Rental Hosts",
+        "similarity": 0.11893371492624283
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/open",
+        "description": "Autopilot customer support that saves you $100K a year",
+        "similarity": 0.11891619861125946
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/focal",
+        "description": "AI video creation tool for TV shows and movies",
+        "similarity": 0.11839473247528076
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/tabular",
+        "description": "AI Copilot for accounting firms in Europe",
+        "similarity": 0.11827750504016876
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/retell-ai",
+        "description": "Supercharge Your Contact Center Operations with AI Phone Agents",
+        "similarity": 0.11758764088153839
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/haystack-software",
+        "description": "Visualize and edit your codebase on an infinite canvas",
+        "similarity": 0.117558553814888
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/guide-labs",
+        "description": "Interpretable AI systems",
+        "similarity": 0.1174459457397461
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/reworks",
+        "description": "Turn external software into APIs that don\u2019t break",
+        "similarity": 0.11740855872631073
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/intryc",
+        "description": "Intryc uses AI to automate quality assurance for customer support",
+        "similarity": 0.11623290926218033
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/amber-ai",
+        "description": "Super app for kids",
+        "similarity": 0.11568617820739746
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/omniai",
+        "description": "Automate document workflows",
+        "similarity": 0.1156202182173729
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/aidy",
+        "description": "We help government affairs professionals track and analyze legislation",
+        "similarity": 0.1155986338853836
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/zaymo",
+        "description": "Interactive email builder for ecommerce brands",
+        "similarity": 0.11556106060743332
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/marr-labs",
+        "description": "AI-voice agents that are indistinguishable from humans.",
+        "similarity": 0.11554959416389465
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/openfunnel",
+        "description": "GTM Faster with Vertical Agents",
+        "similarity": 0.11534416675567627
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/momentic",
+        "description": "The modern standard for software testing",
+        "similarity": 0.11486291885375977
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/theseus",
+        "description": "GPS Denied Navigation for Drones",
+        "similarity": 0.1147451400756836
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pyspur",
+        "description": "LLM Reasoning Engine",
+        "similarity": 0.11455245316028595
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/dragoneye",
+        "description": "More detailed object recognition than Google and Amazon",
+        "similarity": 0.1140652447938919
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/mdhub",
+        "description": "AI assistants for mental health clinics to efficiently run their ops",
+        "similarity": 0.11393798887729645
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/schemeflow",
+        "description": "Automating Government Approvals for Construction Projects",
+        "similarity": 0.11388050764799118
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/autocomputer",
+        "description": "Desktop RPA with AI computer use",
+        "similarity": 0.11379949748516083
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/moonglow",
+        "description": "Connecting local Jupyter notebooks to remote cloud compute.",
+        "similarity": 0.11373544484376907
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/vera-health",
+        "description": "AI-powered clinical decision support for healthcare providers",
+        "similarity": 0.11317417025566101
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/modus",
+        "description": "Unlock revenue per employee with AI-powered headcount management",
+        "similarity": 0.11305718123912811
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/henry-2",
+        "description": "Automating Deal Decks for Commercial Real Estate Brokers",
+        "similarity": 0.11293591558933258
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ai-2",
+        "description": "Accelerate patent due diligence with AI",
+        "similarity": 0.11283226311206818
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/hamming-ai",
+        "description": "Automated testing for AI voice agents",
+        "similarity": 0.11275643855333328
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/astrix-health",
+        "description": "Astrix builds AI purchasing agents for healthcare providers.",
+        "similarity": 0.11113052070140839
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/lightscreen-ai",
+        "description": "Voice + video AI interviewer",
+        "similarity": 0.1091596931219101
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/canvas",
+        "description": "The AI Copilot for Customer Success",
+        "similarity": 0.1087888851761818
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/parley",
+        "description": "Automating flat-fee legal work, starting with work visas + green cards",
+        "similarity": 0.10801921784877777
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/stitch-technologies",
+        "description": "-",
+        "similarity": 0.10792239755392075
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/infinity-ai",
+        "description": "Type a script, get a movie.",
+        "similarity": 0.10781877487897873
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/showandtell",
+        "description": "Agents for the dental operating model",
+        "similarity": 0.1074540838599205
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/governgpt",
+        "description": "AI Back Office for Fund Managers",
+        "similarity": 0.10672524571418762
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/keet",
+        "description": "Authentication for AI Agents",
+        "similarity": 0.10668541491031647
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/riskcube",
+        "description": "Digital insurance brokerage for property & casualty risks.",
+        "similarity": 0.10619006305932999
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/rowboat-labs",
+        "description": "LLM agents for customer support in fintech",
+        "similarity": 0.10610808432102203
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/junction-bioscience",
+        "description": "AI Hypothesis Engine for Molecular Discovery",
+        "similarity": 0.10514277964830399
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/centralize",
+        "description": "The AI-powered relationship intelligence platform for enterprise sales",
+        "similarity": 0.10471336543560028
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/bayesline",
+        "description": "Highly customizable and blazingly fast analytics for asset managers.",
+        "similarity": 0.10465158522129059
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/duckie",
+        "description": "AI Assistant for Customer Support Teams",
+        "similarity": 0.10324688255786896
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/angstrom-ai",
+        "description": "Gen AI molecular simulations that reproduce wetlab results",
+        "similarity": 0.10278604179620743
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pico",
+        "description": "Pico organizes and takes action on your iPhone screenshots",
+        "similarity": 0.10220123827457428
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/blacksmith",
+        "description": "Serverless cloud infra for CI",
+        "similarity": 0.10208559036254883
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/reducto",
+        "description": "Unlocking data behind complex documents",
+        "similarity": 0.10152669250965118
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/benchify",
+        "description": "Bug-free code without writing tests",
+        "similarity": 0.1014215499162674
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/double-2",
+        "description": "Design Your Own Stock Index",
+        "similarity": 0.1012858897447586
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/bitesight",
+        "description": "The video-first food delivery app. Imagine TikTok meets DoorDash.",
+        "similarity": 0.10124132037162781
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/just-words",
+        "description": "Scale hyper-personalized messaging with AI",
+        "similarity": 0.10084409266710281
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pointone",
+        "description": "Automated time tracking and billing for law firms.",
+        "similarity": 0.10077906399965286
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/fixa",
+        "description": "sentry for AI voice agents",
+        "similarity": 0.09987799823284149
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/edgetrace",
+        "description": "Real-world video understanding models",
+        "similarity": 0.09941147267818451
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/baseline-ai",
+        "description": "AI document creation and data management for clinical trials",
+        "similarity": 0.09938278794288635
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ion-design",
+        "description": "Your front end team in a box - Prompt to code & Figma to code",
+        "similarity": 0.09937922656536102
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/sandra-ai",
+        "description": "Sandra AI builds the leading voice AI receptionist for car dealerships",
+        "similarity": 0.09927941858768463
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/cheers-2",
+        "description": "The super-app for in-person businesses",
+        "similarity": 0.09925834834575653
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/phospho",
+        "description": "Open Source Text Analytics for LLM Apps",
+        "similarity": 0.09906339645385742
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/finosu",
+        "description": "Workflow automation for the credit industry",
+        "similarity": 0.098594531416893
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ubicloud",
+        "description": "Open source alternative to AWS",
+        "similarity": 0.09831982105970383
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/terra-2",
+        "description": "Terra is like Faire for custom goods",
+        "similarity": 0.09664341062307358
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/wuri",
+        "description": "App to read fiction stories as visual novels with images, videos,\u2026",
+        "similarity": 0.09655962139368057
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ryvn",
+        "description": "Deploy, monitor, and manage applications in customer clouds",
+        "similarity": 0.0954694151878357
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/snowpilot",
+        "description": "The connected spreadsheet that destroys data silos",
+        "similarity": 0.09545498341321945
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/kater-ai",
+        "description": "Deliver complete data analysis from a single question",
+        "similarity": 0.09545009583234787
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/bramble",
+        "description": "The next generation Zillow.",
+        "similarity": 0.09461761265993118
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/abel-police",
+        "description": "Automating police paperwork",
+        "similarity": 0.09443322569131851
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/origami-agents",
+        "description": "Agents that find your perfect customers",
+        "similarity": 0.09399113059043884
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/trieve",
+        "description": "All-in-one API for search, RAG, & recommendations",
+        "similarity": 0.09394189715385437
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/collectwise",
+        "description": "Automating consumer debt collection with AI",
+        "similarity": 0.09370504319667816
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/dmodel",
+        "description": "Look inside the model",
+        "similarity": 0.09354977309703827
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/protegee",
+        "description": "Payments API for AI agents",
+        "similarity": 0.09335076063871384
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/tandem-2",
+        "description": "Marketplace to help companies lease and share office space",
+        "similarity": 0.09227921068668365
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/tensorfuse",
+        "description": "Run serverless GPUs on your own cloud",
+        "similarity": 0.09173771739006042
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/acx",
+        "description": "Therapeutics inspired by bacteria's natural killing abilities",
+        "similarity": 0.09153524041175842
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/swift-2",
+        "description": "Embedded finance for online merchants",
+        "similarity": 0.09145426750183105
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/celest",
+        "description": "The Vercel of Flutter",
+        "similarity": 0.09111199527978897
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/void",
+        "description": "The open source Cursor alternative",
+        "similarity": 0.08963528275489807
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/firstwork",
+        "description": "Rippling for seasonal workers",
+        "similarity": 0.0895119458436966
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/infinity",
+        "description": "Business banking for cross-border SMBs & Startups",
+        "similarity": 0.08747418224811554
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/aqua-voice",
+        "description": "Voice-only text editor",
+        "similarity": 0.08655788749456406
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/hostai",
+        "description": "The operating system for managing vacation rentals.",
+        "similarity": 0.08647482097148895
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/miden",
+        "description": "Card issuer processor and banking stack for businesses in Sub-\u2026",
+        "similarity": 0.08583150058984756
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/planbase",
+        "description": "Workforce management for modern healthcare",
+        "similarity": 0.08566196262836456
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/mito-health",
+        "description": "AI Preventive Health Provider",
+        "similarity": 0.08530151844024658
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/domu-technology-inc",
+        "description": "Automating debt collection calls for banks.",
+        "similarity": 0.08505713194608688
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/crustdata",
+        "description": "Realtime company and people data enrichment",
+        "similarity": 0.0847075879573822
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/glasskube",
+        "description": "Open Source Package Manager for Kubernetes",
+        "similarity": 0.08466776460409164
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/cekura",
+        "description": "Browser agent that keeps your documentation up-to-date",
+        "similarity": 0.08457189798355103
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/kontigo",
+        "description": "USDC-Smart Neobank for Latinos.",
+        "similarity": 0.08456894755363464
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/risotto",
+        "description": "Risotto auto-solves IT support requests using AI",
+        "similarity": 0.084509938955307
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/kastle",
+        "description": "AI voice agents for mortgage servicing",
+        "similarity": 0.08428763598203659
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/crowdvolt",
+        "description": "Bid/ask style ticket exchange powered by automated order fulfillment",
+        "similarity": 0.08377659320831299
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/lilac-labs",
+        "description": "We automate the person taking orders at drive-thrus with a voice AI",
+        "similarity": 0.08348622173070908
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/alai",
+        "description": "Create high quality presentations faster using AI",
+        "similarity": 0.08341378718614578
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/powder",
+        "description": "AI Agents for precise document analysis",
+        "similarity": 0.08340390026569366
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/nuanced-inc",
+        "description": "Nuanced detects AI fraud, deepfakes, and misinformation.",
+        "similarity": 0.08310067653656006
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/thorntale",
+        "description": "Easiest way for post-sales teams to create data-driven presentations",
+        "similarity": 0.0812077447772026
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/salvy",
+        "description": "Mobile carrier for businesses in Brazil",
+        "similarity": 0.08048057556152344
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/autarc",
+        "description": "autarc is the OS for Europe's One-Stop Energy Installers",
+        "similarity": 0.08039157092571259
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/spaceium-inc",
+        "description": "In-Space Refueling",
+        "similarity": 0.07985568046569824
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/the-forecasting-company",
+        "description": "Foundation models for time series",
+        "similarity": 0.07936608791351318
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/helpcare-ai",
+        "description": "Get more patients in the door with AI Agents for Healthcare Admin",
+        "similarity": 0.07927361130714417
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/veles",
+        "description": "The Sales Calculator",
+        "similarity": 0.07784071564674377
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/friday",
+        "description": "An assistant that understands your emails and handles them for you",
+        "similarity": 0.07604775577783585
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/corgi",
+        "description": "Corgi is building an AI insurance company",
+        "similarity": 0.076042041182518
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/assembly-2",
+        "description": "Build Magical Customer Experiences",
+        "similarity": 0.07592293620109558
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/recase",
+        "description": "KYC/B orchestration that resolves complex cases with customers",
+        "similarity": 0.07558642327785492
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/tradeflow",
+        "description": "AI-powered settlement for financial securities",
+        "similarity": 0.07535336911678314
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/maitai",
+        "description": "Reliable, self-improving enterprise AI",
+        "similarity": 0.07530277967453003
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/chorrie",
+        "description": "Eliminate medical claim denials & underbilling with AI",
+        "similarity": 0.07446637749671936
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/promptarmor",
+        "description": "LLM Security and Compliance",
+        "similarity": 0.07403512299060822
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/sciphi",
+        "description": "SciPhi is building R2R, the all-in-one solution for RAG.",
+        "similarity": 0.07373090088367462
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/bifrost-orbital",
+        "description": "24/7 and real-time connectivity for satellites",
+        "similarity": 0.07182631641626358
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/vocera",
+        "description": "Testing & Observability for AI voice agents",
+        "similarity": 0.07137425988912582
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/indemni",
+        "description": "Cargo Theft and Fraud Prevention Platform",
+        "similarity": 0.07110276818275452
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/sync-2",
+        "description": "AI lipsync tool for video content creators",
+        "similarity": 0.07088802754878998
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/outerport",
+        "description": "VMware for GPUs",
+        "similarity": 0.06949134916067123
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/parcelbio",
+        "description": "Next-generation mRNA medicines",
+        "similarity": 0.06940954923629761
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/hatchet-2",
+        "description": "Background task orchestration and visibility",
+        "similarity": 0.06921252608299255
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/maia",
+        "description": "AI relationship app that keeps couples together",
+        "similarity": 0.06805978715419769
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/saturn",
+        "description": "Compliance and back office workflows for Wealth Managers.",
+        "similarity": 0.06681166589260101
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/invaria",
+        "description": "The next generation logging and observability platform",
+        "similarity": 0.06670498847961426
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/panora",
+        "description": "Data Connectors for LLMs",
+        "similarity": 0.06530044972896576
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/suretynow",
+        "description": "The Modern Surety Bond Platform",
+        "similarity": 0.06483236700296402
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/getcho",
+        "description": "Local delivery platform for high-value goods",
+        "similarity": 0.06464609503746033
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/hybrd",
+        "description": "Strava for the modern athlete",
+        "similarity": 0.0643509104847908
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/betterbasket",
+        "description": "Pricing for grocers with competitive data",
+        "similarity": 0.0640144944190979
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/raycaster",
+        "description": "Research assistant for enterprise sales",
+        "similarity": 0.06333810091018677
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/vista-power",
+        "description": "Modular battery energy storage for businesses",
+        "similarity": 0.06304057687520981
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/clara",
+        "description": "Helping families discover, hire, and manage in-home caregivers",
+        "similarity": 0.062368959188461304
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/greenboard",
+        "description": "'Rippling' for Financial Compliance and Operations",
+        "similarity": 0.06163778901100159
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/clarion",
+        "description": "Elevate patient communications with conversational AI",
+        "similarity": 0.06086485832929611
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/aviary",
+        "description": "Video Intelligence",
+        "similarity": 0.06063653156161308
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/willow",
+        "description": "AI-powered Revenue Cycle Management for Long-term Care",
+        "similarity": 0.06038555130362511
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/dgi-apparel",
+        "description": "Expedia for ordering blank apparel",
+        "similarity": 0.06011582165956497
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/hey-revia",
+        "description": "Voice AI to automate complex phone calls for healthcare providers",
+        "similarity": 0.05954619124531746
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/curo",
+        "description": "Electric fleets park and charge anywhere with Curo",
+        "similarity": 0.05891593545675278
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/sonia",
+        "description": "AI Therapy for Mental Health",
+        "similarity": 0.05812875181436539
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/radmate-ai",
+        "description": "Copilot for radiologists",
+        "similarity": 0.05673961713910103
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/moonshine",
+        "description": "APIs for video understanding",
+        "similarity": 0.05645735561847687
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/gauge",
+        "description": "Solving the monolith/microservices dilemma.",
+        "similarity": 0.05605486407876015
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/paasa",
+        "description": "Simplifying global investing for HNIs in emerging markets",
+        "similarity": 0.05579041689634323
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pharos",
+        "description": "Automate hospital reporting and prevent patient harm with AI",
+        "similarity": 0.05378459393978119
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/lytix",
+        "description": "DataDog for LLMs, turnkey solution for n=1 custom evaluations",
+        "similarity": 0.053541842848062515
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/kiosk",
+        "description": "WhatsApp Marketing for E-commerce",
+        "similarity": 0.05335775017738342
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/leaping",
+        "description": "Automate bug resolution",
+        "similarity": 0.05305427312850952
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/pax",
+        "description": "AI Broker for Import Tax Refunds",
+        "similarity": 0.051449261605739594
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/opslane",
+        "description": "AI SRE to speed up incident response",
+        "similarity": 0.05070899426937103
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/cloudcruise",
+        "description": "An API to trigger workflows in the browser",
+        "similarity": 0.0506933331489563
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/verse-therapy",
+        "description": "Connecting All Ages with Speech Language Pathologists",
+        "similarity": 0.0501042976975441
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/stacksync",
+        "description": "Real-time and two-way sync between CRMs and Databases",
+        "similarity": 0.049266017973423004
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/offdeal",
+        "description": "AI-native investment bank for small businesses",
+        "similarity": 0.04886190965771675
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/finny-ai",
+        "description": "The OS for independent financial advisors",
+        "similarity": 0.04862706735730171
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/superagent",
+        "description": "ChatGPT for Compliance",
+        "similarity": 0.047159213572740555
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/soma-lab",
+        "description": "Conversations with AI patients to scale healthcare training.",
+        "similarity": 0.04541647434234619
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/the-new-money-company",
+        "description": "The offshore bank for international contractors",
+        "similarity": 0.045018285512924194
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/keye",
+        "description": "Automated Due Diligence for Private Market Investors",
+        "similarity": 0.04339268058538437
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/oway",
+        "description": "Ridesharing freight with ML to cut pallet shipping costs by 50%",
+        "similarity": 0.042797334492206573
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/flyflow",
+        "description": "The easiest way to find high-quality sales leads",
+        "similarity": 0.04263753816485405
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/manifold-freight",
+        "description": "Aggregating Spot Freight Opportunities for Carriers",
+        "similarity": 0.042488329112529755
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/cleva",
+        "description": "USD banking platform for Africa",
+        "similarity": 0.039622385054826736
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/overlap",
+        "description": "Overlap is Perplexity for video & audio content",
+        "similarity": 0.03833135589957237
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/piramidal",
+        "description": "Foundation Model for the Brain",
+        "similarity": 0.03695724159479141
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/issen",
+        "description": "AI realtime voice companion for language learning",
+        "similarity": 0.0369175523519516
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/elayne",
+        "description": "AI family estate planning & settlements after death",
+        "similarity": 0.036397166550159454
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/codes-health",
+        "description": "Perfect medical histories prior to care",
+        "similarity": 0.03625386208295822
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/xpay",
+        "description": "International Billing Ops, Sales Tax and Payments for SaaS businesses",
+        "similarity": 0.035430051386356354
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/melder",
+        "description": "Turning messy supply chain data into actionable savings",
+        "similarity": 0.034385502338409424
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/zuni",
+        "description": "Smarter email for founders",
+        "similarity": 0.0332137867808342
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/nowhouse",
+        "description": "NowHouse is building a new Broadridge.",
+        "similarity": 0.03283984959125519
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/oddsview",
+        "description": "The Bloomberg Terminal of Sports Betting",
+        "similarity": 0.03221297264099121
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/surebright",
+        "description": "Apple Care-like warranty program for every retailer",
+        "similarity": 0.02936576120555401
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/zimi",
+        "description": "Fulfillment by Amazon for Exporters in Emerging Markets",
+        "similarity": 0.029048720374703407
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/evolvere-biosciences",
+        "description": "Making Next-Generation Antibiotics that Outpace Bacterial Evolution",
+        "similarity": 0.028516322374343872
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/stack-auth",
+        "description": "The open-source Auth0 alternative",
+        "similarity": 0.027691204100847244
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/consus",
+        "description": "Your single source of truth for government documents",
+        "similarity": 0.026425456628203392
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/andy-ai",
+        "description": "Faster clinical documentation for home health nurses",
+        "similarity": 0.025880247354507446
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/promi",
+        "description": "Optimizing ecommerce pricing with dynamic, personalized discounts",
+        "similarity": 0.02462819404900074
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/mineflow",
+        "description": "Mineflow predicts the shape and location of mineral deposits",
+        "similarity": 0.02450975961983204
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/retrofix-ai",
+        "description": "Turbo Tax for Building Rebates",
+        "similarity": 0.024240020662546158
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/oma-care",
+        "description": "Get paid for taking care of your parents.",
+        "similarity": 0.023620739579200745
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/fileforge",
+        "description": "API For PDF Document Workflows",
+        "similarity": 0.023218652233481407
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ember-copilot",
+        "description": "The only medical scribe that reduces claim denials by 55%",
+        "similarity": 0.02247496321797371
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/dreamrp",
+        "description": "Bring your characters to life",
+        "similarity": 0.02233552187681198
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ryse",
+        "description": "The secondary market for real estate leases",
+        "similarity": 0.022148998454213142
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/delve",
+        "description": "HIPAA and SOC 2 in days, not months.",
+        "similarity": 0.02146800234913826
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/offstream",
+        "description": "Vanta for carbon compliance",
+        "similarity": 0.021197553724050522
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/copper-health",
+        "description": "Modern patient engagement and remote therapeutic monitoring platform",
+        "similarity": 0.02046358957886696
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/granza-bio",
+        "description": "Cancer targeting attack particles",
+        "similarity": 0.01776580698788166
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/fazeshift",
+        "description": "AI agent for Accounts Receivable",
+        "similarity": 0.01774531602859497
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/yenmo",
+        "description": "Secured consumer lending in India",
+        "similarity": 0.016509423032402992
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/surge",
+        "description": "Stripe for telephony",
+        "similarity": 0.01634359173476696
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/synsorybio",
+        "description": "\"If-then\" conditional logic for protein drugs",
+        "similarity": 0.01607251726090908
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/abel",
+        "description": "Transforming document review for litigation teams",
+        "similarity": 0.012690383940935135
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/fortress",
+        "description": "Globally replicated and sharded Postgres",
+        "similarity": 0.011061795055866241
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/mango-health",
+        "description": "We get physicians paid for sending patients to therapy.",
+        "similarity": 0.01021970808506012
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/selera-medical",
+        "description": "One-time, device-based treatment for heart failure",
+        "similarity": 0.009497996419668198
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/fuse-2",
+        "description": "Boosting contracted revenue for US healthcare providers",
+        "similarity": 0.009216850623488426
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/shiboleth",
+        "description": "Shiboleth automates lending compliance for financial institutions\u2026",
+        "similarity": 0.009172589518129826
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/simple-ai",
+        "description": "Better Siri",
+        "similarity": 0.007473118603229523
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/forge-rewards",
+        "description": "Starbucks app for restaurants",
+        "similarity": 0.006444954313337803
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/cardlift",
+        "description": "We help card issuers maximize their share of wallet.",
+        "similarity": 0.005056996829807758
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/blaze-2",
+        "description": "Global Venmo for cross border payments",
+        "similarity": -0.0011967523023486137
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/penciled",
+        "description": "Fill 10X more canceled appointments",
+        "similarity": -0.0032635852694511414
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/beebettor",
+        "description": "Robinhood for sports betting",
+        "similarity": -0.00396741321310401
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/starlight-charging",
+        "description": "Ultra-low-cost EV charging for condos and apartments",
+        "similarity": -0.004237119108438492
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/revyl",
+        "description": "Proactive observability",
+        "similarity": -0.004755809903144836
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/village-labs",
+        "description": "Helping America's businesses become employee owned",
+        "similarity": -0.00792723149061203
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/tivara",
+        "description": "Using LLMs to automate insurance approval for healthcare clinics",
+        "similarity": -0.008774779736995697
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/resonance",
+        "description": "Optimize NRR within your product",
+        "similarity": -0.010665969923138618
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/riskangle",
+        "description": "Medical record summary in minutes",
+        "similarity": -0.016828836873173714
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/brighterway",
+        "description": "Streamlining the record review process for physicians in medlegal\u2026",
+        "similarity": -0.017802827060222626
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/moreta",
+        "description": "Payments made easy for international travelers.",
+        "similarity": -0.021675119176506996
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/ply-health",
+        "description": "Faster way to get providers in-network with payers.",
+        "similarity": -0.02340586483478546
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/velorum-therapeutics",
+        "description": "Powerful cancer drugs that starve tumors",
+        "similarity": -0.026420900598168373
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/rulebase",
+        "description": "Voice fraud defense for financial services.",
+        "similarity": -0.02719264104962349
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/kabilah",
+        "description": "Simplifying Patient Handoff for Nurses",
+        "similarity": -0.03148186206817627
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/eris-biotech",
+        "description": "Our drugs engage the immune system to fight tumors",
+        "similarity": -0.03344486653804779
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/sunset",
+        "description": "Find and move money after a death",
+        "similarity": -0.03811034932732582
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/taiki",
+        "description": "Universal API for tax data",
+        "similarity": -0.039473243057727814
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/givefront",
+        "description": "Banking for Nonprofits",
+        "similarity": -0.0409524068236351
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/regatta-storage",
+        "description": "Transform S3 into an unlimited, fast local disk",
+        "similarity": -0.04141850769519806
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/intercept",
+        "description": "Helping CPG brands automatically flag and dispute invalid retail fees",
+        "similarity": -0.05016259476542473
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/lucible",
+        "description": "Combined checking and investment account",
+        "similarity": -0.06341499835252762
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/healia",
+        "description": "Modern health insurance for dual income families",
+        "similarity": -0.07266886532306671
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/guardian-ai",
+        "description": "Helping healthcare providers fight insurance denials.",
+        "similarity": -0.07616620510816574
+    },
+    {
+        "link": "https://www.ycombinator.com/companies/claimsorted",
+        "description": "Making it easy for insurance companies to process claims",
+        "similarity": -0.1336461901664734
+    }
+]

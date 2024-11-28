@@ -1,0 +1,2402 @@
+[
+    {
+        "link": "/companies/asha-health",
+        "description": "We help medical practices launch their own AI clinic"
+    },
+    {
+        "link": "/companies/bifrost-orbital",
+        "description": "24/7 and real-time connectivity for satellites"
+    },
+    {
+        "link": "/companies/humanlayer",
+        "description": "Human-in-the-Loop for AI Agents"
+    },
+    {
+        "link": "/companies/fabricate",
+        "description": "Instant Engineering Drawings"
+    },
+    {
+        "link": "/companies/roundabout-technologies",
+        "description": "AI-powered traffic lights"
+    },
+    {
+        "link": "/companies/synth-3",
+        "description": "We help AI agents learn from data."
+    },
+    {
+        "link": "/companies/helpcare-ai",
+        "description": "Get more patients in the door with AI Agents for Healthcare Admin"
+    },
+    {
+        "link": "/companies/canvas",
+        "description": "The AI Copilot for Customer Success"
+    },
+    {
+        "link": "/companies/ember-copilot",
+        "description": "The only medical scribe that reduces claim denials by 55%"
+    },
+    {
+        "link": "/companies/relvy-ai",
+        "description": "Efficient AI for monitoring production software"
+    },
+    {
+        "link": "/companies/friday",
+        "description": "An assistant that understands your emails and handles them for you"
+    },
+    {
+        "link": "/companies/sre-ai",
+        "description": "AI agents to automate DevOps workflows"
+    },
+    {
+        "link": "/companies/ryvn",
+        "description": "Deploy, monitor, and manage applications in customer clouds"
+    },
+    {
+        "link": "/companies/melder",
+        "description": "Turning messy supply chain data into actionable savings"
+    },
+    {
+        "link": "/companies/fix-ai",
+        "description": "AI agents that navigate websites like real users to find bugs"
+    },
+    {
+        "link": "/companies/foundry",
+        "description": "Build, test, and improve AI agents"
+    },
+    {
+        "link": "/companies/forerunner-ai",
+        "description": "Copilot for aerospace engineers making rockets, munitions, satellites"
+    },
+    {
+        "link": "/companies/openclinic",
+        "description": "Digital medical clinics that are 99% AI, 1% doctor."
+    },
+    {
+        "link": "/companies/bramble",
+        "description": "The next generation Zillow."
+    },
+    {
+        "link": "/companies/surge",
+        "description": "Stripe for telephony"
+    },
+    {
+        "link": "/companies/sunset",
+        "description": "Find and move money after a death"
+    },
+    {
+        "link": "/companies/archilabs",
+        "description": "AI Copilot for Architects"
+    },
+    {
+        "link": "/companies/revi",
+        "description": "AI-enabled M&A deal origination"
+    },
+    {
+        "link": "/companies/metreecs",
+        "description": "AI-powered demand forecasting for retail"
+    },
+    {
+        "link": "/companies/diffusion-studio",
+        "description": "Next Generation Canva for AI Video Editing in the Browser"
+    },
+    {
+        "link": "/companies/chorrie",
+        "description": "Eliminate medical claim denials & underbilling with AI"
+    },
+    {
+        "link": "/companies/alex",
+        "description": "The Cursor for Xcode"
+    },
+    {
+        "link": "/companies/gander",
+        "description": "LLM's For Aviation, Starting with Customer Service"
+    },
+    {
+        "link": "/companies/innate",
+        "description": "Agentic, teachable general-purpose robots"
+    },
+    {
+        "link": "/companies/scrapybara",
+        "description": "Virtual Desktops for AI Agents"
+    },
+    {
+        "link": "/companies/consus",
+        "description": "Your single source of truth for government documents"
+    },
+    {
+        "link": "/companies/collectwise",
+        "description": "Automating consumer debt collection with AI"
+    },
+    {
+        "link": "/companies/origami-agents",
+        "description": "Agents that find your perfect customers"
+    },
+    {
+        "link": "/companies/fresco",
+        "description": "Quick, mobile documentation for construction sites"
+    },
+    {
+        "link": "/companies/permitportal",
+        "description": "AI Operating System for Pre-construction"
+    },
+    {
+        "link": "/companies/gecko-security",
+        "description": "AI Security Engineer to Find and Fix Vulnerabilities"
+    },
+    {
+        "link": "/companies/recase",
+        "description": "KYC/B orchestration that resolves complex cases with customers"
+    },
+    {
+        "link": "/companies/curo",
+        "description": "Electric fleets park and charge anywhere with Curo"
+    },
+    {
+        "link": "/companies/dexter",
+        "description": "AI workflow automation for field operations"
+    },
+    {
+        "link": "/companies/moonshine",
+        "description": "APIs for video understanding"
+    },
+    {
+        "link": "/companies/abundant",
+        "description": "On-demand human workforce for AI agents"
+    },
+    {
+        "link": "/companies/autocomputer",
+        "description": "Desktop RPA with AI computer use"
+    },
+    {
+        "link": "/companies/crustdata",
+        "description": "Realtime company and people data enrichment"
+    },
+    {
+        "link": "/companies/tiny",
+        "description": "The Rippling for factories"
+    },
+    {
+        "link": "/companies/vly-ai-2",
+        "description": "The easiest way to build custom full-stack software without code"
+    },
+    {
+        "link": "/companies/pearson-labs",
+        "description": "AI agents used by law firms and companies for corporate transactions"
+    },
+    {
+        "link": "/companies/cekura",
+        "description": "Browser agent that keeps your documentation up-to-date"
+    },
+    {
+        "link": "/companies/platus",
+        "description": "Instant Legal Infrastructure - Draft, Sign, Notarize & Automate"
+    },
+    {
+        "link": "/companies/aditto",
+        "description": "Let AI manage your marketing."
+    },
+    {
+        "link": "/companies/beerme",
+        "description": "A fun, global alternative to Venmo built on USDC"
+    },
+    {
+        "link": "/companies/hybrd",
+        "description": "Strava for the modern athlete"
+    },
+    {
+        "link": "/companies/codebuff",
+        "description": "The CLI tool that writes code for you"
+    },
+    {
+        "link": "/companies/karmen",
+        "description": "AI Assistant for Construction Project Managers"
+    },
+    {
+        "link": "/companies/replexica",
+        "description": "Automated AI localization for multilingual software."
+    },
+    {
+        "link": "/companies/sphinx",
+        "description": "AI Agents for KYC & AML"
+    },
+    {
+        "link": "/companies/luthor",
+        "description": "AI-powered content, expertly refined by humans who know your brand."
+    },
+    {
+        "link": "/companies/keye",
+        "description": "Automated Due Diligence for Private Market Investors"
+    },
+    {
+        "link": "/companies/riskcube",
+        "description": "Digital insurance brokerage for property & casualty risks."
+    },
+    {
+        "link": "/companies/ctgt",
+        "description": "Entirely New AI Stack: Efficient and Safe Alternative to LLM Ecosystem"
+    },
+    {
+        "link": "/companies/studydojo",
+        "description": "AI tutors for students."
+    },
+    {
+        "link": "/companies/issen",
+        "description": "AI realtime voice companion for language learning"
+    },
+    {
+        "link": "/companies/protegee",
+        "description": "Payments API for AI agents"
+    },
+    {
+        "link": "/companies/circlemind",
+        "description": "Circlemind is an open-source RAG using knowledge graphs and PageRank."
+    },
+    {
+        "link": "/companies/reticular",
+        "description": "Steerable and interpretable AI for protein design"
+    },
+    {
+        "link": "/companies/astrix-health",
+        "description": "Astrix builds AI purchasing agents for healthcare providers."
+    },
+    {
+        "link": "/companies/lune-ai",
+        "description": "Lune AI - Better LLMs for code and technical tasks"
+    },
+    {
+        "link": "/companies/vocera",
+        "description": "Testing & Observability for AI voice agents"
+    },
+    {
+        "link": "/companies/regatta-storage",
+        "description": "Transform S3 into an unlimited, fast local disk"
+    },
+    {
+        "link": "/companies/sandra-ai",
+        "description": "Sandra AI builds the leading voice AI receptionist for car dealerships"
+    },
+    {
+        "link": "/companies/vespper",
+        "description": "24/7 AI on-call engineer"
+    },
+    {
+        "link": "/companies/praxis-ai",
+        "description": "Manufacturing specific reasoning agents to prevent machine failures"
+    },
+    {
+        "link": "/companies/revyl",
+        "description": "Proactive observability"
+    },
+    {
+        "link": "/companies/supercontrast",
+        "description": "AI Co-Pilot for Design"
+    },
+    {
+        "link": "/companies/raycaster",
+        "description": "Research assistant for enterprise sales"
+    },
+    {
+        "link": "/companies/lightscreen-ai",
+        "description": "Voice + video AI interviewer"
+    },
+    {
+        "link": "/companies/afternoon-co",
+        "description": "AI Bookkeeping and tax platform for ecommerce & startup founders"
+    },
+    {
+        "link": "/companies/rulebase",
+        "description": "Voice fraud defense for financial services."
+    },
+    {
+        "link": "/companies/healthspark",
+        "description": "Launch, run, and grow an AI-native physical therapy practice"
+    },
+    {
+        "link": "/companies/openfunnel",
+        "description": "GTM Faster with Vertical Agents"
+    },
+    {
+        "link": "/companies/coblocks",
+        "description": "Build data pipelines in minutes with AI"
+    },
+    {
+        "link": "/companies/getcho",
+        "description": "Local delivery platform for high-value goods"
+    },
+    {
+        "link": "/companies/encore",
+        "description": "Search and discovery engine for secondhand products"
+    },
+    {
+        "link": "/companies/summed-ai",
+        "description": "The AI Copilot for Insurance Agents"
+    },
+    {
+        "link": "/companies/gait",
+        "description": "Building Dev Infra for AI Software Engineers"
+    },
+    {
+        "link": "/companies/docflow",
+        "description": "We build automated scheduling software for hospitals"
+    },
+    {
+        "link": "/companies/upshift",
+        "description": "We help product companies build plugin systems and app stores."
+    },
+    {
+        "link": "/companies/pearai",
+        "description": "The Open Source and Extendable AI Code Editor"
+    },
+    {
+        "link": "/companies/symphony",
+        "description": "Voice AI sims for next-gen employee training"
+    },
+    {
+        "link": "/companies/showandtell",
+        "description": "Agents for the dental operating model"
+    },
+    {
+        "link": "/companies/galini",
+        "description": "Compliance guardrails-as-a-service for AI applications"
+    },
+    {
+        "link": "/companies/riveter-ai",
+        "description": "The copilot for corporate strategy"
+    },
+    {
+        "link": "/companies/andoria",
+        "description": "AI web agent for personalized walkthroughs"
+    },
+    {
+        "link": "/companies/fixa",
+        "description": "sentry for AI voice agents"
+    },
+    {
+        "link": "/companies/outerport",
+        "description": "VMware for GPUs"
+    },
+    {
+        "link": "/companies/dreamrp",
+        "description": "Bring your characters to life"
+    },
+    {
+        "link": "/companies/melty",
+        "description": "Melty is the first chat-based code editor"
+    },
+    {
+        "link": "/companies/syntra",
+        "description": "AI OS for Private Practice Doctors"
+    },
+    {
+        "link": "/companies/pathpilot",
+        "description": "The AI Customer Experience Agent"
+    },
+    {
+        "link": "/companies/standard-data",
+        "description": "Augmented Reality Training and Copilot for Manufacturing"
+    },
+    {
+        "link": "/companies/kairo-health",
+        "description": "The AI healthcare workforce"
+    },
+    {
+        "link": "/companies/midship",
+        "description": "Extract, search and analyze data in your documents"
+    },
+    {
+        "link": "/companies/soma-lab",
+        "description": "Conversations with AI patients to scale healthcare training."
+    },
+    {
+        "link": "/companies/merlin-ai",
+        "description": "AI powered ERP for Construction"
+    },
+    {
+        "link": "/companies/freestyle",
+        "description": "Build exceptional infrastructure with just JavaScript."
+    },
+    {
+        "link": "/companies/arva-ai",
+        "description": "AI enabled business verification for banks and fintechs"
+    },
+    {
+        "link": "/companies/affil-ai",
+        "description": "AI Affiliate Network For Financial Companies"
+    },
+    {
+        "link": "/companies/orgorg",
+        "description": "Organizational productivity suite for companies"
+    },
+    {
+        "link": "/companies/patched",
+        "description": "Open-source workflow automation for dev teams"
+    },
+    {
+        "link": "/companies/village-labs",
+        "description": "Helping America's businesses become employee owned"
+    },
+    {
+        "link": "/companies/mica-ai",
+        "description": "AI Agents that Automate B2B Sales"
+    },
+    {
+        "link": "/companies/formula-insight",
+        "description": "Help Institutional Investors manage, track & query their Excel models"
+    },
+    {
+        "link": "/companies/overlap",
+        "description": "Overlap is Perplexity for video & audio content"
+    },
+    {
+        "link": "/companies/capitol-ai",
+        "description": "Capitol is a custom perplexity for every website in the world."
+    },
+    {
+        "link": "/companies/kart-ai",
+        "description": "The AI shopping assistant for all e-commerce brands"
+    },
+    {
+        "link": "/companies/void",
+        "description": "The open source Cursor alternative"
+    },
+    {
+        "link": "/companies/anglera",
+        "description": "AI-native operating system for e-commerce"
+    },
+    {
+        "link": "/companies/xtraffic",
+        "description": "Technology for cities to automate and manage their traffic lights."
+    },
+    {
+        "link": "/companies/felafax",
+        "description": "Building AI Infra for non-NVIDIA GPUs"
+    },
+    {
+        "link": "/companies/henry-2",
+        "description": "Automating Deal Decks for Commercial Real Estate Brokers"
+    },
+    {
+        "link": "/companies/hey-revia",
+        "description": "Voice AI to automate complex phone calls for healthcare providers"
+    },
+    {
+        "link": "/companies/ficra",
+        "description": "Real time, source of truth for every product screen and user flow"
+    },
+    {
+        "link": "/companies/rowboat-labs",
+        "description": "LLM agents for customer support in fintech"
+    },
+    {
+        "link": "/companies/pipeshift",
+        "description": "Platform for Fine-tuning, Distilling and Inferencing Open-source LLMs."
+    },
+    {
+        "link": "/companies/vera-health",
+        "description": "AI-powered clinical decision support for healthcare providers"
+    },
+    {
+        "link": "/companies/pharos",
+        "description": "Automate hospital reporting and prevent patient harm with AI"
+    },
+    {
+        "link": "/companies/et-al",
+        "description": "Feed of insights extracted from your go-to sources using LLMs."
+    },
+    {
+        "link": "/companies/keet",
+        "description": "Authentication for AI Agents"
+    },
+    {
+        "link": "/companies/terra-2",
+        "description": "Terra is like Faire for custom goods"
+    },
+    {
+        "link": "/companies/ai-sell",
+        "description": "AI Sales Associate for Ecommerce"
+    },
+    {
+        "link": "/companies/diode-computers-inc",
+        "description": "Automate circuit board design using AI"
+    },
+    {
+        "link": "/companies/surebright",
+        "description": "Apple Care-like warranty program for every retailer"
+    },
+    {
+        "link": "/companies/usul",
+        "description": "Win Defense Contracts with AI."
+    },
+    {
+        "link": "/companies/saldor",
+        "description": "AI Software Engineers"
+    },
+    {
+        "link": "/companies/bucket-robotics",
+        "description": "Defect detection for manufacturing built from CAD and synthetic data."
+    },
+    {
+        "link": "/companies/oway",
+        "description": "Ridesharing freight with ML to cut pallet shipping costs by 50%"
+    },
+    {
+        "link": "/companies/elayne",
+        "description": "AI family estate planning & settlements after death"
+    },
+    {
+        "link": "/companies/blaze-2",
+        "description": "Global Venmo for cross border payments"
+    },
+    {
+        "link": "/companies/pap",
+        "description": "Agents that earn consumers dollars when they shop, travel, and live."
+    },
+    {
+        "link": "/companies/mindely",
+        "description": "The first GenAI interviewer for skills assessment interviews"
+    },
+    {
+        "link": "/companies/tradeflow",
+        "description": "AI-powered settlement for financial securities"
+    },
+    {
+        "link": "/companies/voker",
+        "description": "No-Code AI Builder"
+    },
+    {
+        "link": "/companies/rastro",
+        "description": "AI personal shopper for home goods"
+    },
+    {
+        "link": "/companies/quetzal",
+        "description": "Simple, LLM-first translation and internationalization for software"
+    },
+    {
+        "link": "/companies/weavel",
+        "description": "Automate prompt & LLM engineering, 50x times faster than a human"
+    },
+    {
+        "link": "/companies/moreta",
+        "description": "Payments made easy for international travelers."
+    },
+    {
+        "link": "/companies/focus-buddy",
+        "description": "AI Productivity Coach you speak with while working to stay focused…"
+    },
+    {
+        "link": "/companies/simplifine",
+        "description": "AI-Powered Workspace for Research"
+    },
+    {
+        "link": "/companies/sepal-ai",
+        "description": "Building LLMs for Large Enterprises."
+    },
+    {
+        "link": "/companies/assembly-hoa",
+        "description": "AI-enabled HOA Management Company"
+    },
+    {
+        "link": "/companies/autarc",
+        "description": "autarc is the OS for Europe's One-Stop Energy Installers"
+    },
+    {
+        "link": "/companies/omnidock",
+        "description": "OS for global e-commerce expansion of brands & manufacturers"
+    },
+    {
+        "link": "/companies/polymet",
+        "description": "AI Product Designer"
+    },
+    {
+        "link": "/companies/kontigo",
+        "description": "USDC-Smart Neobank for Latinos."
+    },
+    {
+        "link": "/companies/remo",
+        "description": "AI for compliance teams at banks"
+    },
+    {
+        "link": "/companies/propaya",
+        "description": "AI-powered software to automate property management."
+    },
+    {
+        "link": "/companies/vendra",
+        "description": "AI copilot for hardware teams working with vendors"
+    },
+    {
+        "link": "/companies/argil",
+        "description": "The video generation engine for the creator economy"
+    },
+    {
+        "link": "/companies/zeropath",
+        "description": "Automatically find and fix your software vulnerabilities"
+    },
+    {
+        "link": "/companies/actionbase",
+        "description": "Automate popular websites in a few lines of code"
+    },
+    {
+        "link": "/companies/lumen-orbit",
+        "description": "Data centers in space"
+    },
+    {
+        "link": "/companies/dataleap",
+        "description": "Perplexity for Consultants"
+    },
+    {
+        "link": "/companies/zimi",
+        "description": "Fulfillment by Amazon for Exporters in Emerging Markets"
+    },
+    {
+        "link": "/companies/thyme",
+        "description": "The OS for financial advisors"
+    },
+    {
+        "link": "/companies/ionworks",
+        "description": "Simulation software used by leading battery and automotive companies"
+    },
+    {
+        "link": "/companies/rescript",
+        "description": "AI Regulatory Analyst for Enterprises"
+    },
+    {
+        "link": "/companies/frontio-by-nextui",
+        "description": "Frontio simplifies frontend creation by automating design systems and…"
+    },
+    {
+        "link": "/companies/helium",
+        "description": "Self Improving Software"
+    },
+    {
+        "link": "/companies/ai-2",
+        "description": "Accelerate patent due diligence with AI"
+    },
+    {
+        "link": "/companies/haystack-software",
+        "description": "Visualize and edit your codebase on an infinite canvas"
+    },
+    {
+        "link": "/companies/finosu",
+        "description": "Workflow automation for the credit industry"
+    },
+    {
+        "link": "/companies/odo",
+        "description": "Help companies find and win government contracts with AI"
+    },
+    {
+        "link": "/companies/baseline-ai",
+        "description": "AI document creation and data management for clinical trials"
+    },
+    {
+        "link": "/companies/riskangle",
+        "description": "Medical record summary in minutes"
+    },
+    {
+        "link": "/companies/winford-ai",
+        "description": "Automating Financial Workflows"
+    },
+    {
+        "link": "/companies/cartage",
+        "description": "Autonomous freight coordination"
+    },
+    {
+        "link": "/companies/paasa",
+        "description": "Simplifying global investing for HNIs in emerging markets"
+    },
+    {
+        "link": "/companies/blast",
+        "description": "Helping enterprises build safe and compliant LLM apps/agents"
+    },
+    {
+        "link": "/companies/lilac-labs",
+        "description": "We automate the person taking orders at drive-thrus with a voice AI"
+    },
+    {
+        "link": "/companies/palmier",
+        "description": "AI Native Github Alternative"
+    },
+    {
+        "link": "/companies/simple-ai",
+        "description": "Better Siri"
+    },
+    {
+        "link": "/companies/sensei",
+        "description": "Robotic Training Data at Scale"
+    },
+    {
+        "link": "/companies/guardian-rf",
+        "description": "Drone detection and signal intelligence for US defense."
+    },
+    {
+        "link": "/companies/laminar",
+        "description": "Open-source all-in-one platform for engineering AI products"
+    },
+    {
+        "link": "/companies/cerulion",
+        "description": "Open source operating system for robots"
+    },
+    {
+        "link": "/companies/presti-ai",
+        "description": "Helping furniture companies create product visuals with AI"
+    },
+    {
+        "link": "/companies/the-forecasting-company",
+        "description": "Foundation models for time series"
+    },
+    {
+        "link": "/companies/praxos",
+        "description": "AI workbench for insurance brokers"
+    },
+    {
+        "link": "/companies/exa-laboratories",
+        "description": "Energy efficient chips for AI"
+    },
+    {
+        "link": "/companies/schemeflow",
+        "description": "Automating Government Approvals for Construction Projects"
+    },
+    {
+        "link": "/companies/brighterway",
+        "description": "Streamlining the record review process for physicians in medlegal…"
+    },
+    {
+        "link": "/companies/mineflow",
+        "description": "Mineflow predicts the shape and location of mineral deposits"
+    },
+    {
+        "link": "/companies/soff",
+        "description": "Supply Chain OS for manufacturing companies."
+    },
+    {
+        "link": "/companies/parley",
+        "description": "Automating flat-fee legal work, starting with work visas + green cards"
+    },
+    {
+        "link": "/companies/intryc",
+        "description": "Intryc uses AI to automate quality assurance for customer support"
+    },
+    {
+        "link": "/companies/pinnacle",
+        "description": "API & SDK for RCS (the next-generation of texting)"
+    },
+    {
+        "link": "/companies/ember-robotics",
+        "description": "Datadog for robots"
+    },
+    {
+        "link": "/companies/thunder-compute",
+        "description": "Virtualization software to make GPUs 5x cheaper"
+    },
+    {
+        "link": "/companies/kura-ai",
+        "description": "New State of the Art for Browser Agents"
+    },
+    {
+        "link": "/companies/zeit-ai",
+        "description": "Enterprise insights from spreadsheet data with just a few words."
+    },
+    {
+        "link": "/companies/remade",
+        "description": "Using AI to hyper-personalize videos for marketplaces"
+    },
+    {
+        "link": "/companies/distro",
+        "description": "The AI co-pilot for sales reps at industrial wholesale distributors."
+    },
+    {
+        "link": "/companies/modern-realty",
+        "description": "AI Tools for Transactional Support"
+    },
+    {
+        "link": "/companies/david-ai",
+        "description": "Data for audio AI"
+    },
+    {
+        "link": "/companies/beebettor",
+        "description": "Robinhood for sports betting"
+    },
+    {
+        "link": "/companies/guardian-ai",
+        "description": "Helping healthcare providers fight insurance denials."
+    },
+    {
+        "link": "/companies/stempad",
+        "description": "Notion for science"
+    },
+    {
+        "link": "/companies/pax",
+        "description": "AI Broker for Import Tax Refunds"
+    },
+    {
+        "link": "/companies/conductor-quantum",
+        "description": "Quantum computers on silicon chips using AI."
+    },
+    {
+        "link": "/companies/autumn-labs",
+        "description": "Datadog for industrial robots"
+    },
+    {
+        "link": "/companies/opslane",
+        "description": "AI SRE to speed up incident response"
+    },
+    {
+        "link": "/companies/asterisk",
+        "description": "AI Hacker for Codebases"
+    },
+    {
+        "link": "/companies/biocartesian",
+        "description": "Converting biology into digital molecular maps"
+    },
+    {
+        "link": "/companies/seals-ai",
+        "description": "AI Employees for Wholesalers & Distributors"
+    },
+    {
+        "link": "/companies/deepsilicon",
+        "description": "Software and hardware to run neural networks faster and cheaper"
+    },
+    {
+        "link": "/companies/drillbit",
+        "description": "Automating Office Work for Residential Contractors."
+    },
+    {
+        "link": "/companies/lumenary",
+        "description": "AI-powered research for financial service professionals."
+    },
+    {
+        "link": "/companies/dimely",
+        "description": "AI agents for B2B SaaS Finance Teams"
+    },
+    {
+        "link": "/companies/redouble-ai",
+        "description": "Scale human-in-the-loop for AI workflows in regulated industries"
+    },
+    {
+        "link": "/companies/planbase",
+        "description": "Workforce management for modern healthcare"
+    },
+    {
+        "link": "/companies/unriddle",
+        "description": "Read, write and find research papers faster."
+    },
+    {
+        "link": "/companies/hestus-inc",
+        "description": "An AI-powered CAD software"
+    },
+    {
+        "link": "/companies/magicode",
+        "description": "A Reliable AI Frontend Engineer"
+    },
+    {
+        "link": "/companies/finny-ai",
+        "description": "The OS for independent financial advisors"
+    },
+    {
+        "link": "/companies/focal-2",
+        "description": "AI-powered compliance operations for banks and fintechs"
+    },
+    {
+        "link": "/companies/1849-bio",
+        "description": "Engineering microbes for miners to unlock billions in trapped metal"
+    },
+    {
+        "link": "/companies/reactwise",
+        "description": "AI Co-Pilot for Chemical Process Optimization"
+    },
+    {
+        "link": "/companies/olive-legal",
+        "description": "AI medical summaries for injury lawyers"
+    },
+    {
+        "link": "/companies/saturn",
+        "description": "Compliance and back office workflows for Wealth Managers."
+    },
+    {
+        "link": "/companies/clearly-ai",
+        "description": "Automate security and privacy reviews"
+    },
+    {
+        "link": "/companies/expand-ai",
+        "description": "Turn any website into an API."
+    },
+    {
+        "link": "/companies/overstand-labs",
+        "description": "The cross-selling engine for enterprise software companies"
+    },
+    {
+        "link": "/companies/promi",
+        "description": "Optimizing ecommerce pricing with dynamic, personalized discounts"
+    },
+    {
+        "link": "/companies/ontra-mobility",
+        "description": "Platform for cities to optimize transit"
+    },
+    {
+        "link": "/companies/fortress",
+        "description": "Globally replicated and sharded Postgres"
+    },
+    {
+        "link": "/companies/panora",
+        "description": "Data Connectors for LLMs"
+    },
+    {
+        "link": "/companies/manaflow",
+        "description": "Automate repetitive internal tool workflows with AI agents"
+    },
+    {
+        "link": "/companies/conveo",
+        "description": "Qualitative Research Conducted and Analyzed by AI"
+    },
+    {
+        "link": "/companies/parity",
+        "description": "The World's First AI SRE"
+    },
+    {
+        "link": "/companies/kastle",
+        "description": "AI voice agents for mortgage servicing"
+    },
+    {
+        "link": "/companies/kopra-bio",
+        "description": "Genetically engineered viruses that teach your immune system to kill…"
+    },
+    {
+        "link": "/companies/anthrogen",
+        "description": "We make molecules like fuels and plastics from the air."
+    },
+    {
+        "link": "/companies/benchify",
+        "description": "Bug-free code without writing tests"
+    },
+    {
+        "link": "/companies/fazeshift",
+        "description": "AI agent for Accounts Receivable"
+    },
+    {
+        "link": "/companies/taxgpt",
+        "description": "AI Co-Pilot for Accountants"
+    },
+    {
+        "link": "/companies/substrate",
+        "description": "Artificial Intelligence for your medical billing team"
+    },
+    {
+        "link": "/companies/zenbase-ai",
+        "description": "Continuous prompt optimization for LLMs from DSPy core contributors"
+    },
+    {
+        "link": "/companies/taxo",
+        "description": "Automated medical billing and coding"
+    },
+    {
+        "link": "/companies/mito-health",
+        "description": "AI Preventive Health Provider"
+    },
+    {
+        "link": "/companies/lighthouz-ai",
+        "description": "AI procurement specialists for manufacturers"
+    },
+    {
+        "link": "/companies/modus",
+        "description": "Unlock revenue per employee with AI-powered headcount management"
+    },
+    {
+        "link": "/companies/dmodel",
+        "description": "Look inside the model"
+    },
+    {
+        "link": "/companies/ledgerup",
+        "description": "Your first and only finance hire"
+    },
+    {
+        "link": "/companies/plume",
+        "description": "Home energy renovation copilot"
+    },
+    {
+        "link": "/companies/pulse-ai",
+        "description": "Procurement on autopilot"
+    },
+    {
+        "link": "/companies/autopallet-robotics",
+        "description": "We make robots that move boxes in warehouses"
+    },
+    {
+        "link": "/companies/stormy-ai",
+        "description": "Influencer marketing on autopilot"
+    },
+    {
+        "link": "/companies/merse-2",
+        "description": "Visual stories like comics, but with immersive audio effects."
+    },
+    {
+        "link": "/companies/aminoanalytica",
+        "description": "AI for improved protein production and performance"
+    },
+    {
+        "link": "/companies/gauge",
+        "description": "Solving the monolith/microservices dilemma."
+    },
+    {
+        "link": "/companies/weave-robotics",
+        "description": "Personal robots for the home--that ship in 2025"
+    },
+    {
+        "link": "/companies/tandem-2",
+        "description": "Marketplace to help companies lease and share office space"
+    },
+    {
+        "link": "/companies/answergrid",
+        "description": "AI research agents for Strategy Consultants and Investment Analysts"
+    },
+    {
+        "link": "/companies/tivara",
+        "description": "Using LLMs to automate insurance approval for healthcare clinics"
+    },
+    {
+        "link": "/companies/camfer",
+        "description": "Building the world’s first AI mechanical engineer."
+    },
+    {
+        "link": "/companies/minusx",
+        "description": "AI Data Scientist for Jupyter and Metabase"
+    },
+    {
+        "link": "/companies/snowpilot",
+        "description": "The connected spreadsheet that destroys data silos"
+    },
+    {
+        "link": "/companies/passage",
+        "description": "Clear goods through customs, with AI"
+    },
+    {
+        "link": "/companies/parahelp",
+        "description": "The AI support agent used by Perplexity and Captions.ai"
+    },
+    {
+        "link": "/companies/codeviz",
+        "description": "AI agent that builds codebase maps for developers"
+    },
+    {
+        "link": "/companies/neuralize",
+        "description": "The On-Device AI Deployment Platform"
+    },
+    {
+        "link": "/companies/ares-industries",
+        "description": "Building low-cost cruise missiles"
+    },
+    {
+        "link": "/companies/dodo",
+        "description": "AI Employees for Specialty Clinics"
+    },
+    {
+        "link": "/companies/lucible",
+        "description": "Combined checking and investment account"
+    },
+    {
+        "link": "/companies/elevate-2",
+        "description": "Financial infrastructure for AI agents"
+    },
+    {
+        "link": "/companies/offstream",
+        "description": "Vanta for carbon compliance"
+    },
+    {
+        "link": "/companies/storia-ai",
+        "description": "Open source AI copilot that knows your company's code and its context"
+    },
+    {
+        "link": "/companies/deepsim-inc",
+        "description": "An AI physics simulator for AI chip design"
+    },
+    {
+        "link": "/companies/reworks",
+        "description": "Turn external software into APIs that don’t break"
+    },
+    {
+        "link": "/companies/zuni",
+        "description": "Smarter email for founders"
+    },
+    {
+        "link": "/companies/proxis",
+        "description": "The developer platform for LLM distillation and serving."
+    },
+    {
+        "link": "/companies/rewbi",
+        "description": "Rewbi uses AI to increase grid-connected battery storage revenue 2x"
+    },
+    {
+        "link": "/companies/willow",
+        "description": "AI-powered Revenue Cycle Management for Long-term Care"
+    },
+    {
+        "link": "/companies/aviary",
+        "description": "Video Intelligence"
+    },
+    {
+        "link": "/companies/networkocean",
+        "description": "We build and operate underwater data centers."
+    },
+    {
+        "link": "/companies/silurian",
+        "description": "Foundation models to simulate Earth, starting with weather."
+    },
+    {
+        "link": "/companies/kura",
+        "description": "The AI DevOps Copilot for Software Teams"
+    },
+    {
+        "link": "/companies/unbound-security",
+        "description": "Allow employees to use AI tools without fear of data loss"
+    },
+    {
+        "link": "/companies/retrofix-ai",
+        "description": "Turbo Tax for Building Rebates"
+    },
+    {
+        "link": "/companies/azalea-robotics-corporation",
+        "description": "Automating airport baggage handling with robots."
+    },
+    {
+        "link": "/companies/leeroo",
+        "description": "Turning workflows to production-ready, e2e trainable Compound Models."
+    },
+    {
+        "link": "/companies/decisional-ai",
+        "description": "AI Financial Analyst for Private Market Investors"
+    },
+    {
+        "link": "/companies/moonglow",
+        "description": "Connecting local Jupyter notebooks to remote cloud compute."
+    },
+    {
+        "link": "/companies/ideate-xyz",
+        "description": "Automate marketing graphics design at scale"
+    },
+    {
+        "link": "/companies/firstwork",
+        "description": "Rippling for seasonal workers"
+    },
+    {
+        "link": "/companies/sorcerer",
+        "description": "We build weather balloons that collect 1000x more data"
+    },
+    {
+        "link": "/companies/wordware",
+        "description": "IDE to develop, iterate and deploy AI Agents"
+    },
+    {
+        "link": "/companies/maitai",
+        "description": "Reliable, self-improving enterprise AI"
+    },
+    {
+        "link": "/companies/corgi",
+        "description": "Corgi is building an AI insurance company"
+    },
+    {
+        "link": "/companies/phonely",
+        "description": "AI call centers"
+    },
+    {
+        "link": "/companies/videogen",
+        "description": "AI that can create and edit professional videos"
+    },
+    {
+        "link": "/companies/clara",
+        "description": "Helping families discover, hire, and manage in-home caregivers"
+    },
+    {
+        "link": "/companies/stack-auth",
+        "description": "The open-source Auth0 alternative"
+    },
+    {
+        "link": "/companies/tabular",
+        "description": "AI Copilot for accounting firms in Europe"
+    },
+    {
+        "link": "/companies/callback",
+        "description": "AI-native business process outsourcing"
+    },
+    {
+        "link": "/companies/flyflow",
+        "description": "The easiest way to find high-quality sales leads"
+    },
+    {
+        "link": "/companies/bayesline",
+        "description": "Highly customizable and blazingly fast analytics for asset managers."
+    },
+    {
+        "link": "/companies/digitalcarbon",
+        "description": "Transform Images And Videos Into Immersive 3D With AI"
+    },
+    {
+        "link": "/companies/random-labs",
+        "description": "Random labs is building fully open source software agents"
+    },
+    {
+        "link": "/companies/unsloth-ai",
+        "description": "Open Source Fine-tuning & Training of LLMs"
+    },
+    {
+        "link": "/companies/codes-health",
+        "description": "Perfect medical histories prior to care"
+    },
+    {
+        "link": "/companies/entangl",
+        "description": "Automating hardware design end-to-end without errors"
+    },
+    {
+        "link": "/companies/claimsorted",
+        "description": "Making it easy for insurance companies to process claims"
+    },
+    {
+        "link": "/companies/mdhub",
+        "description": "AI assistants for mental health clinics to efficiently run their ops"
+    },
+    {
+        "link": "/companies/hamming-ai",
+        "description": "Automated testing for AI voice agents"
+    },
+    {
+        "link": "/companies/genie",
+        "description": "Conversational AI Sidekick for Kids."
+    },
+    {
+        "link": "/companies/prohostai",
+        "description": "AI Property Manager for Airbnb & Short-Term Rental Hosts"
+    },
+    {
+        "link": "/companies/educato-ai",
+        "description": "AI-Powered Worldwide exam-prep platform"
+    },
+    {
+        "link": "/companies/spaceium-inc",
+        "description": "In-Space Refueling"
+    },
+    {
+        "link": "/companies/comfy-deploy",
+        "description": "Vercel for Gen AI applications"
+    },
+    {
+        "link": "/companies/synnax",
+        "description": "Unified Hardware Control and Data Processing Software"
+    },
+    {
+        "link": "/companies/theseus",
+        "description": "GPS Denied Navigation for Drones"
+    },
+    {
+        "link": "/companies/saphira-ai",
+        "description": "Vanta for Hardware"
+    },
+    {
+        "link": "/companies/glasskube",
+        "description": "Open Source Package Manager for Kubernetes"
+    },
+    {
+        "link": "/companies/mem0",
+        "description": "The Memory layer for your AI apps"
+    },
+    {
+        "link": "/companies/cheers-2",
+        "description": "The super-app for in-person businesses"
+    },
+    {
+        "link": "/companies/ply-health",
+        "description": "Faster way to get providers in-network with payers."
+    },
+    {
+        "link": "/companies/variant",
+        "description": "Building the state-of-the-art model for software design"
+    },
+    {
+        "link": "/companies/ceejay",
+        "description": "Intelligent assistant for knowledge workers"
+    },
+    {
+        "link": "/companies/superunit",
+        "description": "AI powered ERP for companies manufacturing or selling physical goods"
+    },
+    {
+        "link": "/companies/undermind",
+        "description": "An AI agent for complex search"
+    },
+    {
+        "link": "/companies/domu-technology-inc",
+        "description": "Automating debt collection calls for banks."
+    },
+    {
+        "link": "/companies/apten",
+        "description": "Customizable AI SMS agents for businesses"
+    },
+    {
+        "link": "/companies/spherecast",
+        "description": "AI Supply Chain Manager for Ecommerce"
+    },
+    {
+        "link": "/companies/miru-ml",
+        "description": "Deployment infrastructure for robotics and IoT"
+    },
+    {
+        "link": "/companies/cardlift",
+        "description": "We help card issuers maximize their share of wallet."
+    },
+    {
+        "link": "/companies/abel-police",
+        "description": "Automating police paperwork"
+    },
+    {
+        "link": "/companies/ultra",
+        "description": "Robots to package billions of e-commerce orders in warehouses"
+    },
+    {
+        "link": "/companies/indemni",
+        "description": "Cargo Theft and Fraud Prevention Platform"
+    },
+    {
+        "link": "/companies/angstrom-ai",
+        "description": "Gen AI molecular simulations that reproduce wetlab results"
+    },
+    {
+        "link": "/companies/parcelbio",
+        "description": "Next-generation mRNA medicines"
+    },
+    {
+        "link": "/companies/coval",
+        "description": "Simulation & Evaluation for AI Agents"
+    },
+    {
+        "link": "/companies/k-scale-labs",
+        "description": "Open-source humanoid robots"
+    },
+    {
+        "link": "/companies/marr-labs",
+        "description": "AI-voice agents that are indistinguishable from humans."
+    },
+    {
+        "link": "/companies/forge-rewards",
+        "description": "Starbucks app for restaurants"
+    },
+    {
+        "link": "/companies/dropback",
+        "description": "The front office software suite for college sports"
+    },
+    {
+        "link": "/companies/retailready",
+        "description": "An AI-powered supply chain compliance engine"
+    },
+    {
+        "link": "/companies/million",
+        "description": "Make websites fast, automatically"
+    },
+    {
+        "link": "/companies/nowhouse",
+        "description": "NowHouse is building a new Broadridge."
+    },
+    {
+        "link": "/companies/getcrux",
+        "description": "AI Co-pilot for Performance Marketing"
+    },
+    {
+        "link": "/companies/reprompt",
+        "description": "AI Data Agents for reading complex documents and websites"
+    },
+    {
+        "link": "/companies/inspectmind-ai",
+        "description": "Write Construction Inspections Reports using AI, up to 100x faster"
+    },
+    {
+        "link": "/companies/yarn-2",
+        "description": "Make sales and marketing videos with AI."
+    },
+    {
+        "link": "/companies/blacksmith",
+        "description": "Serverless cloud infra for CI"
+    },
+    {
+        "link": "/companies/crowdvolt",
+        "description": "Bid/ask style ticket exchange powered by automated order fulfillment"
+    },
+    {
+        "link": "/companies/kater-ai",
+        "description": "Deliver complete data analysis from a single question"
+    },
+    {
+        "link": "/companies/mathos",
+        "description": "Ultimate AI Math Problem Solver to Revolutionize Personalized Learning"
+    },
+    {
+        "link": "/companies/tower",
+        "description": "Copilot for in-house legal teams."
+    },
+    {
+        "link": "/companies/quivr",
+        "description": "Open Source Chat-Powered Second Brain"
+    },
+    {
+        "link": "/companies/dragoneye",
+        "description": "More detailed object recognition than Google and Amazon"
+    },
+    {
+        "link": "/companies/renderlet",
+        "description": "Build interactive applications that run anywhere"
+    },
+    {
+        "link": "/companies/fume",
+        "description": "We are building the AI Software Developer"
+    },
+    {
+        "link": "/companies/the-new-money-company",
+        "description": "The offshore bank for international contractors"
+    },
+    {
+        "link": "/companies/forge",
+        "description": "Procurement software for hardware companies"
+    },
+    {
+        "link": "/companies/taiki",
+        "description": "Universal API for tax data"
+    },
+    {
+        "link": "/companies/konstructly",
+        "description": "The Modern Operating System for Construction"
+    },
+    {
+        "link": "/companies/pico",
+        "description": "Pico organizes and takes action on your iPhone screenshots"
+    },
+    {
+        "link": "/companies/granza-bio",
+        "description": "Cancer targeting attack particles"
+    },
+    {
+        "link": "/companies/haplotype-labs",
+        "description": "Personalized prevention using genetics and AI"
+    },
+    {
+        "link": "/companies/healia",
+        "description": "Modern health insurance for dual income families"
+    },
+    {
+        "link": "/companies/trueclaim",
+        "description": "Transparent, AI-powered healthcare TPA."
+    },
+    {
+        "link": "/companies/cocrafter",
+        "description": "B2B construction marketplace to match contractors and subcontractors."
+    },
+    {
+        "link": "/companies/reform",
+        "description": "The AI-powered workspace for freight forwarding"
+    },
+    {
+        "link": "/companies/piramidal",
+        "description": "Foundation Model for the Brain"
+    },
+    {
+        "link": "/companies/junction-bioscience",
+        "description": "AI Hypothesis Engine for Molecular Discovery"
+    },
+    {
+        "link": "/companies/evolvere-biosciences",
+        "description": "Making Next-Generation Antibiotics that Outpace Bacterial Evolution"
+    },
+    {
+        "link": "/companies/spur",
+        "description": "Spur is your AI QA Engineer. Test your websites with natural language."
+    },
+    {
+        "link": "/companies/oddsview",
+        "description": "The Bloomberg Terminal of Sports Betting"
+    },
+    {
+        "link": "/companies/silogy",
+        "description": "An AI-powered test and debug platform for chip developers"
+    },
+    {
+        "link": "/companies/senso",
+        "description": "AI-Powered Knowledge Base for Customer Support"
+    },
+    {
+        "link": "/companies/eris-biotech",
+        "description": "Our drugs engage the immune system to fight tumors"
+    },
+    {
+        "link": "/companies/powder",
+        "description": "AI Agents for precise document analysis"
+    },
+    {
+        "link": "/companies/openfoundry",
+        "description": "The fastest developer experience for building on open source AI."
+    },
+    {
+        "link": "/companies/goldenbasis",
+        "description": "Modern back-office software for brokerages"
+    },
+    {
+        "link": "/companies/penciled",
+        "description": "Fill 10X more canceled appointments"
+    },
+    {
+        "link": "/companies/magic-hour",
+        "description": "Platform for AI video generation."
+    },
+    {
+        "link": "/companies/ryse",
+        "description": "The secondary market for real estate leases"
+    },
+    {
+        "link": "/companies/lumona",
+        "description": "AI-enabled search engine featuring perspectives from social media."
+    },
+    {
+        "link": "/companies/datacurve",
+        "description": "Frontier coding data for training and evaluating LLMs"
+    },
+    {
+        "link": "/companies/marblism",
+        "description": "Generate a fully-functional web app from a single prompt"
+    },
+    {
+        "link": "/companies/commodityai",
+        "description": "AI-Powered Shipment Management for Commodity Traders"
+    },
+    {
+        "link": "/companies/veles",
+        "description": "The Sales Calculator"
+    },
+    {
+        "link": "/companies/miden",
+        "description": "Card issuer processor and banking stack for businesses in Sub-…"
+    },
+    {
+        "link": "/companies/fluently",
+        "description": "AI-powered speaking coach for calls"
+    },
+    {
+        "link": "/companies/basepilot",
+        "description": "AI coworkers to automate browser work, in minutes."
+    },
+    {
+        "link": "/companies/aqua-voice",
+        "description": "Voice-only text editor"
+    },
+    {
+        "link": "/companies/xpay",
+        "description": "International Billing Ops, Sales Tax and Payments for SaaS businesses"
+    },
+    {
+        "link": "/companies/deepnight",
+        "description": "Building The Next Generation of Night Vision Devices"
+    },
+    {
+        "link": "/companies/vista-power",
+        "description": "Modular battery energy storage for businesses"
+    },
+    {
+        "link": "/companies/foreffect",
+        "description": "AI Video Effects"
+    },
+    {
+        "link": "/companies/ocular-ai",
+        "description": "Ocular AI 2.0 Launch Week: Dec 01 - 07, 2024"
+    },
+    {
+        "link": "/companies/retell-ai",
+        "description": "Supercharge Your Contact Center Operations with AI Phone Agents"
+    },
+    {
+        "link": "/companies/rove",
+        "description": "Travel the world for free."
+    },
+    {
+        "link": "/companies/camelai",
+        "description": "AI Business Intelligence agent. Get actionable insights in minutes."
+    },
+    {
+        "link": "/companies/spark",
+        "description": "AI-powered workflows for large-scale clean energy"
+    },
+    {
+        "link": "/companies/titan-2",
+        "description": "Open-source toolkit for data compliance"
+    },
+    {
+        "link": "/companies/terrakotta",
+        "description": "AI platform for phone-first sellers"
+    },
+    {
+        "link": "/companies/stacksync",
+        "description": "Real-time and two-way sync between CRMs and Databases"
+    },
+    {
+        "link": "/companies/hatchet-2",
+        "description": "Background task orchestration and visibility"
+    },
+    {
+        "link": "/companies/shepherd-2",
+        "description": "Every student's personalized learning assistant"
+    },
+    {
+        "link": "/companies/sonauto",
+        "description": "Create hit songs with AI"
+    },
+    {
+        "link": "/companies/bitesight",
+        "description": "The video-first food delivery app. Imagine TikTok meets DoorDash."
+    },
+    {
+        "link": "/companies/velorum-therapeutics",
+        "description": "Powerful cancer drugs that starve tumors"
+    },
+    {
+        "link": "/companies/zep-ai",
+        "description": "The Memory Foundation For Your AI Stack"
+    },
+    {
+        "link": "/companies/openmart",
+        "description": "GTM platform for reaching local businesses"
+    },
+    {
+        "link": "/companies/triply",
+        "description": "Operating system for travel businesses in Africa with embedded finance"
+    },
+    {
+        "link": "/companies/amber-ai",
+        "description": "Super app for kids"
+    },
+    {
+        "link": "/companies/thorntale",
+        "description": "Easiest way for post-sales teams to create data-driven presentations"
+    },
+    {
+        "link": "/companies/alai",
+        "description": "Create high quality presentations faster using AI"
+    },
+    {
+        "link": "/companies/pocketpod",
+        "description": "AI generated podcasts tailored to your interests"
+    },
+    {
+        "link": "/companies/sample",
+        "description": "AI Agents for healthcare enterprises."
+    },
+    {
+        "link": "/companies/brainbase",
+        "description": "AI workflow automations for enterprise"
+    },
+    {
+        "link": "/companies/focal",
+        "description": "AI video creation tool for TV shows and movies"
+    },
+    {
+        "link": "/companies/givefront",
+        "description": "Banking for Nonprofits"
+    },
+    {
+        "link": "/companies/cleva",
+        "description": "USD banking platform for Africa"
+    },
+    {
+        "link": "/companies/oma-care",
+        "description": "Get paid for taking care of your parents."
+    },
+    {
+        "link": "/companies/ligo-biosciences",
+        "description": "AI designed enzymes for the chemical industry."
+    },
+    {
+        "link": "/companies/artos",
+        "description": "Turning science into regulatory submissions in minutes, not months."
+    },
+    {
+        "link": "/companies/model-ml",
+        "description": "AI Workspace for Financial Services."
+    },
+    {
+        "link": "/companies/betterbasket",
+        "description": "Pricing for grocers with competitive data"
+    },
+    {
+        "link": "/companies/circleback",
+        "description": "AI-powered meeting notes and automations"
+    },
+    {
+        "link": "/companies/just-words",
+        "description": "Scale hyper-personalized messaging with AI"
+    },
+    {
+        "link": "/companies/acx",
+        "description": "Therapeutics inspired by bacteria's natural killing abilities"
+    },
+    {
+        "link": "/companies/risotto",
+        "description": "Risotto auto-solves IT support requests using AI"
+    },
+    {
+        "link": "/companies/dianahr",
+        "description": "An AI-Powered HR Person"
+    },
+    {
+        "link": "/companies/heartbyte",
+        "description": "GenAI Webtoon. Creator write fictions 10x faster."
+    },
+    {
+        "link": "/companies/yondu",
+        "description": "Grocery Store Automation with Intelligent Robotics"
+    },
+    {
+        "link": "/companies/dawn",
+        "description": "Analytics for AI products."
+    },
+    {
+        "link": "/companies/lumina-2",
+        "description": "AI Search Engine for Research"
+    },
+    {
+        "link": "/companies/centauri-ai",
+        "description": "The Modern ETL and Data Science Platform for Finance"
+    },
+    {
+        "link": "/companies/prosights",
+        "description": "ProSights is an AI-native workflow automation / search platform for…"
+    },
+    {
+        "link": "/companies/manifold-freight",
+        "description": "Aggregating Spot Freight Opportunities for Carriers"
+    },
+    {
+        "link": "/companies/edgetrace",
+        "description": "Real-world video understanding models"
+    },
+    {
+        "link": "/companies/clarum",
+        "description": "AI-powered investment due diligence"
+    },
+    {
+        "link": "/companies/opencall-ai",
+        "description": "AI call centers for any business"
+    },
+    {
+        "link": "/companies/voicepanel",
+        "description": "Better surveys with AI"
+    },
+    {
+        "link": "/companies/petra-security",
+        "description": "Cybersecurity"
+    },
+    {
+        "link": "/companies/abel",
+        "description": "Transforming document review for litigation teams"
+    },
+    {
+        "link": "/companies/offdeal",
+        "description": "AI-native investment bank for small businesses"
+    },
+    {
+        "link": "/companies/delve",
+        "description": "HIPAA and SOC 2 in days, not months."
+    },
+    {
+        "link": "/companies/cracked",
+        "description": "AI Motion Graphics Copilot"
+    },
+    {
+        "link": "/companies/andy-ai",
+        "description": "Faster clinical documentation for home health nurses"
+    },
+    {
+        "link": "/companies/hazel-2",
+        "description": "AI-enabled procurement software for government"
+    },
+    {
+        "link": "/companies/shiboleth",
+        "description": "Shiboleth automates lending compliance for financial institutions…"
+    },
+    {
+        "link": "/companies/aftercare",
+        "description": "Conversational AI surveys with intelligent follow-up questions"
+    },
+    {
+        "link": "/companies/soundry-ai",
+        "description": "Professional Quality AI Music Creation"
+    },
+    {
+        "link": "/companies/elodin",
+        "description": "The future of aerospace software."
+    },
+    {
+        "link": "/companies/hostai",
+        "description": "The operating system for managing vacation rentals."
+    },
+    {
+        "link": "/companies/trieve",
+        "description": "All-in-one API for search, RAG, & recommendations"
+    },
+    {
+        "link": "/companies/tensorfuse",
+        "description": "Run serverless GPUs on your own cloud"
+    },
+    {
+        "link": "/companies/toma",
+        "description": "AI for auto dealerships"
+    },
+    {
+        "link": "/companies/carma",
+        "description": "Same-Day Auto Repair for Commercial Fleets."
+    },
+    {
+        "link": "/companies/preloop",
+        "description": "Translate your experimental scripts into production ML services"
+    },
+    {
+        "link": "/companies/superagent",
+        "description": "ChatGPT for Compliance"
+    },
+    {
+        "link": "/companies/bilanc",
+        "description": "The AI-powered Engineering Management Platform"
+    },
+    {
+        "link": "/companies/pyspur",
+        "description": "LLM Reasoning Engine"
+    },
+    {
+        "link": "/companies/browser-buddy",
+        "description": "Librarian for the Internet"
+    },
+    {
+        "link": "/companies/astro-mechanica",
+        "description": "New jet engines for the new Jet Age."
+    },
+    {
+        "link": "/companies/codeant-ai",
+        "description": "AI Code Reviewer"
+    },
+    {
+        "link": "/companies/draftaid",
+        "description": "Go from 3D models to CAD drawings using AI"
+    },
+    {
+        "link": "/companies/metofico",
+        "description": "No Code Data Analysis for Life Science Research"
+    },
+    {
+        "link": "/companies/ellipsis",
+        "description": "AI code reviews & bug fixes"
+    },
+    {
+        "link": "/companies/dime-2",
+        "description": "AI Data Engineer for Hardware Manufacturers"
+    },
+    {
+        "link": "/companies/lytix",
+        "description": "DataDog for LLMs, turnkey solution for n=1 custom evaluations"
+    },
+    {
+        "link": "/companies/pythagora-gpt-pilot",
+        "description": "OSS dev tool that builds entire apps from scratch by talking to you"
+    },
+    {
+        "link": "/companies/wuri",
+        "description": "App to read fiction stories as visual novels with images, videos,…"
+    },
+    {
+        "link": "/companies/open",
+        "description": "Autopilot customer support that saves you $100K a year"
+    },
+    {
+        "link": "/companies/aedilic",
+        "description": "Aedilic is building gpudeploy.com"
+    },
+    {
+        "link": "/companies/salvy",
+        "description": "Mobile carrier for businesses in Brazil"
+    },
+    {
+        "link": "/companies/centralize",
+        "description": "The AI-powered relationship intelligence platform for enterprise sales"
+    },
+    {
+        "link": "/companies/phospho",
+        "description": "Open Source Text Analytics for LLM Apps"
+    },
+    {
+        "link": "/companies/quantic",
+        "description": "Next generation data for Sales teams."
+    },
+    {
+        "link": "/companies/resonance",
+        "description": "Optimize NRR within your product"
+    },
+    {
+        "link": "/companies/firebender",
+        "description": "Android Studio Coding Assistant"
+    },
+    {
+        "link": "/companies/aether-energy",
+        "description": "Solar and roofing workflow software for solar installers worldwide"
+    },
+    {
+        "link": "/companies/fuse-2",
+        "description": "Boosting contracted revenue for US healthcare providers"
+    },
+    {
+        "link": "/companies/kiosk",
+        "description": "WhatsApp Marketing for E-commerce"
+    },
+    {
+        "link": "/companies/ragas",
+        "description": "Building the open source standard for evaluating LLM Applications"
+    },
+    {
+        "link": "/companies/sync-2",
+        "description": "AI lipsync tool for video content creators"
+    },
+    {
+        "link": "/companies/pandasai",
+        "description": "PandasAI is an open-source conversational data analysis platform with…"
+    },
+    {
+        "link": "/companies/infinity",
+        "description": "Business banking for cross-border SMBs & Startups"
+    },
+    {
+        "link": "/companies/inquery-2",
+        "description": "AI-Native Operating System for the Insurance Industry"
+    },
+    {
+        "link": "/companies/markprompt",
+        "description": "AI for customer support"
+    },
+    {
+        "link": "/companies/tamarind-bio",
+        "description": "Easy to use computational biology tools for drug discovery"
+    },
+    {
+        "link": "/companies/clarion",
+        "description": "Elevate patient communications with conversational AI"
+    },
+    {
+        "link": "/companies/swift-2",
+        "description": "Embedded finance for online merchants"
+    },
+    {
+        "link": "/companies/intercept",
+        "description": "Helping CPG brands automatically flag and dispute invalid retail fees"
+    },
+    {
+        "link": "/companies/toolify",
+        "description": "Build internal tools with AI"
+    },
+    {
+        "link": "/companies/decipher-ai",
+        "description": "AI agent that uncovers product issues and bugs in production"
+    },
+    {
+        "link": "/companies/infinity-ai",
+        "description": "Type a script, get a movie."
+    },
+    {
+        "link": "/companies/double-2",
+        "description": "Design Your Own Stock Index"
+    },
+    {
+        "link": "/companies/speck",
+        "description": "Paige, an AI Frontend Engineer"
+    },
+    {
+        "link": "/companies/guide-labs",
+        "description": "Interpretable AI systems"
+    },
+    {
+        "link": "/companies/central",
+        "description": "Eliminating business bullshit: payroll, benefits, compliance, etc"
+    },
+    {
+        "link": "/companies/omniai",
+        "description": "Automate document workflows"
+    },
+    {
+        "link": "/companies/keywords-ai",
+        "description": "LLM monitoring platform for AI startups"
+    },
+    {
+        "link": "/companies/promptarmor",
+        "description": "LLM Security and Compliance"
+    },
+    {
+        "link": "/companies/zaymo",
+        "description": "Interactive email builder for ecommerce brands"
+    },
+    {
+        "link": "/companies/glimmer",
+        "description": "AI search for massive PDFs"
+    },
+    {
+        "link": "/companies/meticulate",
+        "description": "The most powerful way to find, research, and track companies"
+    },
+    {
+        "link": "/companies/cloudcruise",
+        "description": "An API to trigger workflows in the browser"
+    },
+    {
+        "link": "/companies/attunement",
+        "description": "Automation workflow for psychiatric assessments."
+    },
+    {
+        "link": "/companies/lucite",
+        "description": "Automating workflows for insurance, real estate, and finance."
+    },
+    {
+        "link": "/companies/selera-medical",
+        "description": "One-time, device-based treatment for heart failure"
+    },
+    {
+        "link": "/companies/onegrep",
+        "description": "AI Agent for DevOps Workflow Automation"
+    },
+    {
+        "link": "/companies/parasale",
+        "description": "AI Recruiter: Find and Engage Candidates on Autopilot"
+    },
+    {
+        "link": "/companies/tusk",
+        "description": "Generate unit and integration tests with AI"
+    },
+    {
+        "link": "/companies/partnerhq",
+        "description": "A marketplace for B2B businesses to buy warm intros."
+    },
+    {
+        "link": "/companies/atopile",
+        "description": "We make tools to design electronics circuit boards with code"
+    },
+    {
+        "link": "/companies/copper-health",
+        "description": "Modern patient engagement and remote therapeutic monitoring platform"
+    },
+    {
+        "link": "/companies/synsorybio",
+        "description": "\"If-then\" conditional logic for protein drugs"
+    },
+    {
+        "link": "/companies/yoneda-labs",
+        "description": "Foundation Model for Chemical Manufacturing"
+    },
+    {
+        "link": "/companies/tokenowl",
+        "description": "AI portfolio tools for the next generation of finance"
+    },
+    {
+        "link": "/companies/verse-therapy",
+        "description": "Connecting All Ages with Speech Language Pathologists"
+    },
+    {
+        "link": "/companies/topo",
+        "description": "AI sales agent custom trained for each company to reach the best leads"
+    },
+    {
+        "link": "/companies/trellis",
+        "description": "AI-powered workflows for unstructured data"
+    },
+    {
+        "link": "/companies/ecliptor",
+        "description": "AI and Embeddings."
+    },
+    {
+        "link": "/companies/greenboard",
+        "description": "'Rippling' for Financial Compliance and Operations"
+    },
+    {
+        "link": "/companies/eggnog",
+        "description": "Youtube for AI-generated content"
+    },
+    {
+        "link": "/companies/simplex",
+        "description": "Synthetic datasets for vision models"
+    },
+    {
+        "link": "/companies/artisan",
+        "description": "AI Employees Called Artisans, Starting With An AI BDR"
+    },
+    {
+        "link": "/companies/octolane-ai",
+        "description": "Building AI-first Salesforce"
+    },
+    {
+        "link": "/companies/suretynow",
+        "description": "The Modern Surety Bond Platform"
+    },
+    {
+        "link": "/companies/roe-ai",
+        "description": "Data warehouse to query unstructured data like docs, webs, imgs & more"
+    },
+    {
+        "link": "/companies/furtherai",
+        "description": "AI Workforce for the Insurance Industry"
+    },
+    {
+        "link": "/companies/arini",
+        "description": "AI receptionist for dentists"
+    },
+    {
+        "link": "/companies/paradigm",
+        "description": "A reimagined workspace with AI at its core"
+    },
+    {
+        "link": "/companies/pointone",
+        "description": "Automated time tracking and billing for law firms."
+    },
+    {
+        "link": "/companies/patchwork",
+        "description": "Your team’s AI powered communication tool"
+    },
+    {
+        "link": "/companies/starlight-charging",
+        "description": "Ultra-low-cost EV charging for condos and apartments"
+    },
+    {
+        "link": "/companies/assembly-2",
+        "description": "Build Magical Customer Experiences"
+    },
+    {
+        "link": "/companies/mathdash",
+        "description": "Turning Math into a Sport"
+    },
+    {
+        "link": "/companies/leaping",
+        "description": "Automate bug resolution"
+    },
+    {
+        "link": "/companies/basalt-tech",
+        "description": "Autonomy in space, for every mission"
+    },
+    {
+        "link": "/companies/carousel-technologies",
+        "description": "Professional AI toolkit for PowerPoint"
+    },
+    {
+        "link": "/companies/agentic-labs-2",
+        "description": "AI system design tools for dev teams"
+    },
+    {
+        "link": "/companies/fractal-labs",
+        "description": "AI powered UGC platform for RPGs"
+    },
+    {
+        "link": "/companies/pivot-robotics",
+        "description": "AI for Robot Arms in Factories"
+    },
+    {
+        "link": "/companies/aidy",
+        "description": "We help government affairs professionals track and analyze legislation"
+    },
+    {
+        "link": "/companies/dgi-apparel",
+        "description": "Expedia for ordering blank apparel"
+    },
+    {
+        "link": "/companies/buster",
+        "description": "The open source, AI alternative to Tableau"
+    },
+    {
+        "link": "/companies/garage-2",
+        "description": "Marketplace for used firefighting equipment."
+    },
+    {
+        "link": "/companies/mango-health",
+        "description": "We get physicians paid for sending patients to therapy."
+    },
+    {
+        "link": "/companies/argon-ai-inc",
+        "description": "AI for Pharma Intelligence"
+    },
+    {
+        "link": "/companies/ncompass-technologies",
+        "description": "Deploy hardware accelerated AI models with only one line of code"
+    },
+    {
+        "link": "/companies/pretzel-ai",
+        "description": "Open-source & AI-native replacement for Jupyter Notebooks"
+    },
+    {
+        "link": "/companies/apriora",
+        "description": "Your AI recruiter for interviewing and identifying the best talent"
+    },
+    {
+        "link": "/companies/malibou",
+        "description": "the first all-in-one payroll and HR software for French SMBs"
+    },
+    {
+        "link": "/companies/quary",
+        "description": "The first in-browser analytics engineering platform"
+    },
+    {
+        "link": "/companies/newton",
+        "description": "AI-Powered Phones and Payments for Retail Healthcare"
+    },
+    {
+        "link": "/companies/tile",
+        "description": "AI-first notebook for building operational data apps"
+    },
+    {
+        "link": "/companies/adagy-robotics",
+        "description": "Rescuing robots"
+    },
+    {
+        "link": "/companies/momentic",
+        "description": "The modern standard for software testing"
+    },
+    {
+        "link": "/companies/reducto",
+        "description": "Unlocking data behind complex documents"
+    },
+    {
+        "link": "/companies/vectorview",
+        "description": "Building custom evaluation tasks for AI"
+    },
+    {
+        "link": "/companies/maia",
+        "description": "AI relationship app that keeps couples together"
+    },
+    {
+        "link": "/companies/poka-labs",
+        "description": "The modern operating system for chemical manufacturing."
+    },
+    {
+        "link": "/companies/nuanced-inc",
+        "description": "Nuanced detects AI fraud, deepfakes, and misinformation."
+    },
+    {
+        "link": "/companies/precip",
+        "description": "High precision AI weather models"
+    },
+    {
+        "link": "/companies/tracecat",
+        "description": "Open source Tines / Splunk SOAR alternative for security engineers."
+    },
+    {
+        "link": "/companies/kabilah",
+        "description": "Simplifying Patient Handoff for Nurses"
+    },
+    {
+        "link": "/companies/sonia",
+        "description": "AI Therapy for Mental Health"
+    },
+    {
+        "link": "/companies/maihem",
+        "description": "Industry-leading quality testing for mission critical AI"
+    },
+    {
+        "link": "/companies/ion-design",
+        "description": "Your front end team in a box - Prompt to code & Figma to code"
+    },
+    {
+        "link": "/companies/duckie",
+        "description": "AI Assistant for Customer Support Teams"
+    },
+    {
+        "link": "/companies/happenstance",
+        "description": "People search powered by AI"
+    },
+    {
+        "link": "/companies/ubicloud",
+        "description": "Open source alternative to AWS"
+    },
+    {
+        "link": "/companies/greptile",
+        "description": "AI expert on your codebase that you can query via an API"
+    },
+    {
+        "link": "/companies/purplepages",
+        "description": "Purple is an AI agent for online local marketplace transactions."
+    },
+    {
+        "link": "/companies/ego",
+        "description": "AI-native 3D simulation engine"
+    },
+    {
+        "link": "/companies/leya",
+        "description": "The AI workspace for lawyers"
+    },
+    {
+        "link": "/companies/scritch",
+        "description": "AI operating system for veterinary care"
+    },
+    {
+        "link": "/companies/radmate-ai",
+        "description": "Copilot for radiologists"
+    },
+    {
+        "link": "/companies/ssoready",
+        "description": "Open source developer tools for enterprise single sign-on"
+    },
+    {
+        "link": "/companies/relari",
+        "description": "Testing and Simulation Stack for GenAI Systems"
+    },
+    {
+        "link": "/companies/drymerge",
+        "description": "Automate work with plain English."
+    },
+    {
+        "link": "/companies/navier-ai",
+        "description": "Real-Time CFD Simulations"
+    },
+    {
+        "link": "/companies/upsolve-ai",
+        "description": "Customer-facing analytics as a service, powered by AI."
+    },
+    {
+        "link": "/companies/sciphi",
+        "description": "SciPhi is building R2R, the all-in-one solution for RAG."
+    },
+    {
+        "link": "/companies/gumloop",
+        "description": "A no-code platform for automating workflows with AI"
+    },
+    {
+        "link": "/companies/driver-ai",
+        "description": "Understand millions of lines of code in minutes."
+    },
+    {
+        "link": "/companies/lantern-2",
+        "description": "Postgres vector database extension to build AI applications"
+    },
+    {
+        "link": "/companies/danswer",
+        "description": "Open Source AI Assistant and Enterprise Search"
+    },
+    {
+        "link": "/companies/yenmo",
+        "description": "Secured consumer lending in India"
+    },
+    {
+        "link": "/companies/governgpt",
+        "description": "AI Back Office for Fund Managers"
+    },
+    {
+        "link": "/companies/arcane",
+        "description": "AI powered games"
+    },
+    {
+        "link": "/companies/invaria",
+        "description": "The next generation logging and observability platform"
+    },
+    {
+        "link": "/companies/fileforge",
+        "description": "API For PDF Document Workflows"
+    },
+    {
+        "link": "/companies/celest",
+        "description": "The Vercel of Flutter"
+    },
+    {
+        "link": "/companies/blume-benefits",
+        "description": "The AI copilot for health insurance brokers."
+    },
+    {
+        "link": "/companies/stitch-technologies",
+        "description": "-"
+    }
+]
